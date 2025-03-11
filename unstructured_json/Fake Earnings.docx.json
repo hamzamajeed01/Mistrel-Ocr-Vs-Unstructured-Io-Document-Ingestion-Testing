@@ -1,0 +1,4374 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "abdfb52ae226941eb4380857d217de1b",
+    "text": "Year 2023",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Year 2023"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7d410bafa84f5f208a5dd653f83d9d0e",
+    "text": "Form W-2: Wage and Tax Statement",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Form W-2: Wage and Tax Statement"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "df3d78bccd3385f9e8ab84b6fde43458",
+    "text": "Employee Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employee Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1929b9630c852681fe1cac5f85258d98",
+    "text": "Name: John Doe",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "df3d78bccd3385f9e8ab84b6fde43458",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ffd0fdcd88e172b82d5256d93e3048bd",
+    "text": "Social Security Number: 123-45-6789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "df3d78bccd3385f9e8ab84b6fde43458",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "88aba30c3a153102567a527e22640b06",
+    "text": "Address: 123 Main St, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "df3d78bccd3385f9e8ab84b6fde43458",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9be9b2948d4bf6c96cc80e46e4b15ca3",
+    "text": "Employer Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employer Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "310e7dce7b90f8ac6e33a21785902940",
+    "text": "Employer Name: XYZ Construction",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "9be9b2948d4bf6c96cc80e46e4b15ca3",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1f34879ef392d9a8a82d72bb02203e87",
+    "text": "Employer Identification Number (EIN): 12-3456789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "9be9b2948d4bf6c96cc80e46e4b15ca3",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2713c1789895565c0e0e5d81515f9f16",
+    "text": "Employer Address: 456 Industrial Rd, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "9be9b2948d4bf6c96cc80e46e4b15ca3",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "05df91fb315123c45496e5a77888e083",
+    "text": "Wages and Taxes:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Wages and Taxes:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1e61157b82f650575f92de61b29da4ef",
+    "text": "Box 1: Wages, tips, other compensation: $55,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "05df91fb315123c45496e5a77888e083",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c446d8662597dfb7d75e353b033d9be4",
+    "text": "Box 2: Federal income tax withheld: $5,500",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "05df91fb315123c45496e5a77888e083",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f6ccfe46214e5ecd9075c968d3d6a12c",
+    "text": "Box 3: Social Security wages: $55,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "05df91fb315123c45496e5a77888e083",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ea568b67948f24aef0476458585d8e82",
+    "text": "Box 4: Social Security tax withheld: $3,410",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "05df91fb315123c45496e5a77888e083",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "16f00adf7b5559730744c49dce673727",
+    "text": "Box 5: Medicare wages and tips: $55,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "05df91fb315123c45496e5a77888e083",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "97dbbdfd64c516a6a176211a699f9410",
+    "text": "Box 6: Medicare tax withheld: $797.50",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "05df91fb315123c45496e5a77888e083",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ac7bc4590a4305d623b95bde770dac24",
+    "text": "Year 2022",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Year 2022"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6b44c8a0efdb04b7ed594c6ccf7a8c88",
+    "text": "Form W-2: Wage and Tax Statement",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Form W-2: Wage and Tax Statement"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "76b534181045972a43bce3095c33fa91",
+    "text": "Employee Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employee Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6b2c1682b24c87e2db6c5aa7a65d1b12",
+    "text": "Name: John Doe",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "76b534181045972a43bce3095c33fa91",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0456ff8d51dcda8965f88b3f4180c4e3",
+    "text": "Social Security Number: 123-45-6789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "76b534181045972a43bce3095c33fa91",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1777f9fddd3bc03055a717152881a228",
+    "text": "Address: 123 Main St, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "76b534181045972a43bce3095c33fa91",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "305a059df815366aa9034d786edc4cc8",
+    "text": "Employer Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employer Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "724b5dfb06e3b8d94ccb7b9b8fe10d83",
+    "text": "Employer Name: XYZ Construction",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "305a059df815366aa9034d786edc4cc8",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "645f912deacb36ed6bcc29bba0d34aeb",
+    "text": "Employer Identification Number (EIN): 12-3456789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "305a059df815366aa9034d786edc4cc8",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5b87123f722de35ced436ebade95f7f0",
+    "text": "Employer Address: 456 Industrial Rd, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "305a059df815366aa9034d786edc4cc8",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6c75bb8267230207b4cfbb865da0df42",
+    "text": "Wages and Taxes:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Wages and Taxes:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0ed046afdcc9e2372e0654e7f5837c75",
+    "text": "Box 1: Wages, tips, other compensation: $53,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "6c75bb8267230207b4cfbb865da0df42",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "59c5df699df7752c791d00fa6e2274a7",
+    "text": "Box 2: Federal income tax withheld: $5,300",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "6c75bb8267230207b4cfbb865da0df42",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1d30b2f9910705c46f4b5ef481e103f7",
+    "text": "Box 3: Social Security wages: $53,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "6c75bb8267230207b4cfbb865da0df42",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5376f844a3877f7ba59431bea3d1b95e",
+    "text": "Box 4: Social Security tax withheld: $3,286",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "6c75bb8267230207b4cfbb865da0df42",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "502b2255039fde2b619948b246a26de6",
+    "text": "Box 5: Medicare wages and tips: $53,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "6c75bb8267230207b4cfbb865da0df42",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "52167e354a456ebdf1fee914f0a6c629",
+    "text": "Box 6: Medicare tax withheld: $768.50",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "6c75bb8267230207b4cfbb865da0df42",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bb0fb7c7839fcb9db12191210d08bb81",
+    "text": "Year 2021",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Year 2021"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8b32c5dbf24f584c55dd79cf242b267d",
+    "text": "Form W-2: Wage and Tax Statement",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Form W-2: Wage and Tax Statement"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5f89f2a84c2e887d7bc4594ca40d0c2d",
+    "text": "Employee Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employee Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "37ef243a64fd16143959ee4b00198a4a",
+    "text": "Name: John Doe",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "5f89f2a84c2e887d7bc4594ca40d0c2d",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "713e913b45ade6932d3999ab3e2ef151",
+    "text": "Social Security Number: 123-45-6789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "5f89f2a84c2e887d7bc4594ca40d0c2d",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c3839293434ea169ec4fd4eeb0294fda",
+    "text": "Address: 123 Main St, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "5f89f2a84c2e887d7bc4594ca40d0c2d",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0aa906ab73ee5ce5bafc6efc7c1516d3",
+    "text": "Employer Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employer Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8e002e804f5f8c13313e27a2bdf3603e",
+    "text": "Employer Name: XYZ Construction",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "0aa906ab73ee5ce5bafc6efc7c1516d3",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ce33125e9938e794f2502baae46856f3",
+    "text": "Employer Identification Number (EIN): 12-3456789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "0aa906ab73ee5ce5bafc6efc7c1516d3",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d01cf23a63fb3a3c43c49c16d6dc4e53",
+    "text": "Employer Address: 456 Industrial Rd, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "0aa906ab73ee5ce5bafc6efc7c1516d3",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5628a9ed6d449057336c3a455e0fc1be",
+    "text": "Wages and Taxes:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Wages and Taxes:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7fa487e902cc0bdf59e028db1ba2cc8a",
+    "text": "Box 1: Wages, tips, other compensation: $50,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "5628a9ed6d449057336c3a455e0fc1be",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2b4b23d4e6304317087bc972f8d24713",
+    "text": "Box 2: Federal income tax withheld: $5,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "5628a9ed6d449057336c3a455e0fc1be",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd570e34b1ebbe5befe88ced9e851554",
+    "text": "Box 3: Social Security wages: $50,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "5628a9ed6d449057336c3a455e0fc1be",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bf0ccd94424b59fbf4d651faaaf771fe",
+    "text": "Box 4: Social Security tax withheld: $3,100",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "5628a9ed6d449057336c3a455e0fc1be",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bb8dffe20afe76f7f419b643f6306b31",
+    "text": "Box 5: Medicare wages and tips: $50,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "5628a9ed6d449057336c3a455e0fc1be",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "48d5bb87353c88391bc84cf750990ad5",
+    "text": "Box 6: Medicare tax withheld: $725",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "5628a9ed6d449057336c3a455e0fc1be",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6f9447bb9a27e15be79b72cd807e3dd1",
+    "text": "Year 2020",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Year 2020"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5bea00c322ad04dadbad6662eff24ab5",
+    "text": "Form W-2: Wage and Tax Statement",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Form W-2: Wage and Tax Statement"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6522f440df0cfbf59a229e5ec4bef95a",
+    "text": "Employee Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employee Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "45dfd980cf522f25196b6f129416775d",
+    "text": "Name: John Doe",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "6522f440df0cfbf59a229e5ec4bef95a",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cf6487ca2aca7a972c020cf1e76bb327",
+    "text": "Social Security Number: 123-45-6789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "6522f440df0cfbf59a229e5ec4bef95a",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "69c9daaf289cc437a2199f2705fde5ef",
+    "text": "Address: 123 Main St, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "6522f440df0cfbf59a229e5ec4bef95a",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fcee72e9f88246ccc8070047b8a82cf7",
+    "text": "Employer Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employer Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "288da1982836dd26936f12d07cfb48e3",
+    "text": "Employer Name: XYZ Construction",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "fcee72e9f88246ccc8070047b8a82cf7",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5505d750c73ec90b39fa90aabf23b5e4",
+    "text": "Employer Identification Number (EIN): 12-3456789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "fcee72e9f88246ccc8070047b8a82cf7",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8a068f6679058168eb6ac9cb718a1955",
+    "text": "Employer Address: 456 Industrial Rd, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "fcee72e9f88246ccc8070047b8a82cf7",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7029b5a264627ab05fcfc91669da3cc6",
+    "text": "Wages and Taxes:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Wages and Taxes:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5365fb346dd9fccfcefccb23a5d10cce",
+    "text": "Box 1: Wages, tips, other compensation: $48,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "7029b5a264627ab05fcfc91669da3cc6",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ece2b39f117570bd1d337100c1dbd52b",
+    "text": "Box 2: Federal income tax withheld: $4,800",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "7029b5a264627ab05fcfc91669da3cc6",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1362a7717c691282c2be41e08deb4565",
+    "text": "Box 3: Social Security wages: $48,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "7029b5a264627ab05fcfc91669da3cc6",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f754b6c8290afae1f621ae64b4aa97b5",
+    "text": "Box 4: Social Security tax withheld: $2,976",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "7029b5a264627ab05fcfc91669da3cc6",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "30edefe6a3f24af7abd71693661e0245",
+    "text": "Box 5: Medicare wages and tips: $48,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "7029b5a264627ab05fcfc91669da3cc6",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2389e7c6de32eb94ef53729777b66d0",
+    "text": "Box 6: Medicare tax withheld: $696",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "7029b5a264627ab05fcfc91669da3cc6",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e4c56fb8400301632243148395cd41ce",
+    "text": "Year 2019",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Year 2019"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "275747de67394cd533fe732a836207b5",
+    "text": "Form W-2: Wage and Tax Statement",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Form W-2: Wage and Tax Statement"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c6bed41888733e43da6018045b95d6f2",
+    "text": "Employee Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employee Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "20f3811b2b4a27cda5bc12c154c2e986",
+    "text": "Name: John Doe",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "c6bed41888733e43da6018045b95d6f2",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fc70b3237fb91ee4f565bd86383f7af7",
+    "text": "Social Security Number: 123-45-6789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "c6bed41888733e43da6018045b95d6f2",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e924a9839e364bdc4ab12833c517afdc",
+    "text": "Address: 123 Main St, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "c6bed41888733e43da6018045b95d6f2",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53ed1ec92ef01a1fbdf7904d61a01942",
+    "text": "Employer Information:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Employer Information:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7e665d86f859d2c300bb9f674c82556f",
+    "text": "Employer Name: XYZ Construction",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "53ed1ec92ef01a1fbdf7904d61a01942",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7f2588e466ace8e057012a2c82b1733c",
+    "text": "Employer Identification Number (EIN): 12-3456789",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "53ed1ec92ef01a1fbdf7904d61a01942",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "23c622729f87257860021b483b2035f6",
+    "text": "Employer Address: 456 Industrial Rd, Anytown, USA 12345",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "53ed1ec92ef01a1fbdf7904d61a01942",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "26853f4db2a1c41072aef49b323fb830",
+    "text": "Wages and Taxes:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Wages and Taxes:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cc1bb8cfc5ffcd4dda1ac3c1b5d5b8f5",
+    "text": "Box 1: Wages, tips, other compensation: $47,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "26853f4db2a1c41072aef49b323fb830",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e962dcc9ee835ec49dcca94a6e8474d5",
+    "text": "Box 2: Federal income tax withheld: $4,700",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "26853f4db2a1c41072aef49b323fb830",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e2cd201cb6e44092c8435654ddac297d",
+    "text": "Box 3: Social Security wages: $47,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "26853f4db2a1c41072aef49b323fb830",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "09563f9e9765b8e67f650171726b098c",
+    "text": "Box 4: Social Security tax withheld: $2,914",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "26853f4db2a1c41072aef49b323fb830",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aa6cad043ceff9a5661aa9c150482c29",
+    "text": "Box 5: Medicare wages and tips: $47,000",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "26853f4db2a1c41072aef49b323fb830",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6bcb57e1503a26a53a00605ae2ac0f53",
+    "text": "Box 6: Medicare tax withheld: $681.50",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "26853f4db2a1c41072aef49b323fb830",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "75f80e80a541fbb5c1e2fb4c27d27569",
+    "text": "Social Security Earnings Statement",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Social Security Earnings Statement"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b3ad8591a5a96d87761bcfe5cc82c521",
+    "text": "Social Security Earnings Record for John Doe",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Social Security Earnings Record for John Doe"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "d3cd247edc43d5f0225697cf6cdfbbdf",
+    "text": "Year Taxed Social Security Earnings Taxed Medicare Earnings 2023 $55,000 $55,000 2022 $53,000 $53,000 2021 $50,000 $50,000 2020 $48,000 $48,000 2019 $47,000 $47,000",
+    "metadata": {
+      "emphasized_text_contents": [
+        "Year",
+        "Taxed Social Security Earnings",
+        "Taxed Medicare Earnings"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b"
+      ],
+      "text_as_html": "<table><tr><td>Year</td><td>Taxed Social Security Earnings</td><td>Taxed Medicare Earnings</td></tr><tr><td>2023</td><td>$55,000</td><td>$55,000</td></tr><tr><td>2022</td><td>$53,000</td><td>$53,000</td></tr><tr><td>2021</td><td>$50,000</td><td>$50,000</td></tr><tr><td>2020</td><td>$48,000</td><td>$48,000</td></tr><tr><td>2019</td><td>$47,000</td><td>$47,000</td></tr></table>",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f92a682da33424b300d3624f4b38047e",
+    "text": "Summary of Earnings",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Summary of Earnings"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0b8d51d7cde167f225f888765693b57a",
+    "text": "2023: $55,000",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "2023"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dd162ec87eb9e987ddc758716097bc30",
+    "text": "2022: $53,000",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "2022"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fa4c744add845ba1c64439cec3777611",
+    "text": "2021: $50,000",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "2021"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bf96aff4e29b8ffc01da33427a8d4eba",
+    "text": "2020: $48,000",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "2020"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4033d9b2329b6f2abbfdacae7daab754",
+    "text": "2019: $47,000",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "2019"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6d59154f8f7eb8150a12b42ad2405b2a",
+    "text": "Total Taxed Social Security Earnings: $253,000\nTotal Taxed Medicare Earnings: $253,000",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Total Taxed Social Security Earnings",
+        "Total Taxed Medicare Earnings"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c8ac6ddd2014de6e79714a1a945102a7",
+    "text": "Union Benefits Summary for John Doe",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Union Benefits Summary for John Doe"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9c722e77f94dfe6aa77f8e0794105edc",
+    "text": "Union: XYZ Construction Workers Union\nMember Name: John Doe\nMember ID: 123456\nPeriod Covered: 2019 - 2023",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Union: XYZ Construction Workers Union",
+        "Member Name:",
+        "Member ID:",
+        "Period Covered:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7ce9902a6d805987e6f16badd4e7bfa1",
+    "text": "Health Benefits",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Health Benefits"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a92d60e39c6bd6929895fb7a497a99c7",
+    "text": "Provider: Union Health Plan",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Provider:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "81b2205bbf7150519b671927bbd22464",
+    "text": "Coverage Period: 2019 - 2023",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Coverage Period:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "dabf32359d96bd04ba1e954576c080e2",
+    "text": "Plan Type: Comprehensive Health Plan",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plan Type:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1c26dd3b4ff863b7e17447567d5fda93",
+    "text": "Annual Premium: $0 (covered by employer contributions)",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Annual Premium:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "336230466e0e8cf9b761a35aefe0c617",
+    "text": "Annual Deductible: $500 individual / $1,000 family",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Annual Deductible:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0618cbbae1bce19fbf5ca35d54c3c84d",
+    "text": "Co-Pay: $20 per doctor visit",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Co-Pay:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "47e2d1bde1ae116bd23db9e82b7f47c0",
+    "text": "Out-of-Pocket Maximum: $3,000 individual / $6,000 family",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Out-of-Pocket Maximum:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a10210483626732ec5273255107bf109",
+    "text": "Services Covered:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Services Covered:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8b63fe22599b25146c60b77f1c5ce531",
+    "text": "Primary Care Visits: 100% after co-pay",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Primary Care Visits:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bfd539a485b7e08672e69d62526839f4",
+    "text": "Specialist Visits: 100% after co-pay",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Specialist Visits:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0b59dd2da1cf1a6318444bdfae8dc65e",
+    "text": "Emergency Room: 80% after $100 co-pay",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Emergency Room:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1b951fcad58e788b0b7109ac9fb544b4",
+    "text": "Inpatient Hospital: 80% after deductible",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Inpatient Hospital:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "37b16674cf47936f0f76ddb601b9b8d9",
+    "text": "Prescription Drugs: Tiered co-pay ($10 generic, $25 brand-name, $50 specialty)",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Prescription Drugs:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a64f96ec93422128b138e1f05564761d",
+    "text": "Dental Benefits",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Dental Benefits"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0113093b306b5ee8ca2402d670bfdeab",
+    "text": "Provider: Union Dental Plan",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Provider:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e04bae6b85ea3213125300b250c4aaab",
+    "text": "Coverage Period: 2019 - 2023",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Coverage Period:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cacfd3454ddd983f8e2a4b319e89c93b",
+    "text": "Annual Maximum Benefit: $1,500",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Annual Maximum Benefit:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "9a8e276f8bac2c993298b2feb2cdac81",
+    "text": "Deductible: $50 individual / $150 family",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Deductible:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c2dd08e3232594abc82f75c7ea86b7d",
+    "text": "Preventive Care: 100% covered (no deductible)",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Preventive Care:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b54d34824a3fba441f160fe5a0aa68ee",
+    "text": "Basic Services: 80% covered after deductible",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Basic Services:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "439ac22c1530dd8e2fd9abb6d9c26347",
+    "text": "Major Services: 50% covered after deductible",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Major Services:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1260976d542e2fb8aac405fe37a41cd9",
+    "text": "Orthodontics: 50% covered, lifetime maximum of $2,000",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Orthodontics:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "90981c5f454c36c5ef60c52f025ff1fd",
+    "text": "Vision Benefits",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Vision Benefits"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d809dba269e5c30b177355d8eec0a0fa",
+    "text": "Provider: Union Vision Plan",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Provider:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "43f5aa4e5ef933cd9e65baec4c4dfd06",
+    "text": "Coverage Period: 2019 - 2023",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Coverage Period:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "7a98b603ce29151ce3de6eef6b45fd56",
+    "text": "Annual Eye Exam: 100% covered (no co-pay)",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Annual Eye Exam:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "aa3b422f246d56f37de14762f580a915",
+    "text": "Lenses: 100% covered for standard lenses once per year",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Lenses:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "660e4cde3a125f67489279082f01bd7a",
+    "text": "Frames: $150 allowance every two years",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Frames:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ba2b93f63f474473539b31bbce7a4f80",
+    "text": "Contact Lenses: $150 allowance annually (in lieu of glasses)",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Contact Lenses:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5a7e3fdc841e3bb56b7c6cc5e8c1524d",
+    "text": "Pension Benefits",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Pension Benefits"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b53fe55f975a34d5d154f71337ad0971",
+    "text": "Provider: Union Pension Fund",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Provider:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "26b34f1a5368c41f9dc65998e1bf5377",
+    "text": "Participation Period: 2019 - 2023",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Participation Period:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1cac00ef640c04119514627e5058421b",
+    "text": "Vesting Schedule: Fully vested after 5 years",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Vesting Schedule:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3271f98789ce95d6ed6ec99388b09697",
+    "text": "Annual Contribution: $5,000 (employer-funded)",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Annual Contribution:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "561bf28dd9c999d4afb8b7eced50ba84",
+    "text": "Accrued Benefit: Based on years of service and salary",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Accrued Benefit:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a1e46e5cb28fa9bf9715e3e34386c241",
+    "text": "Retirement Age: 65",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Retirement Age:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f9444b26035710eeb2b7862d1b3271c9",
+    "text": "Early Retirement: Available from age 55 with reduced benefits",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Early Retirement:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ff9939b62a9953f0d034a30d65d4a992",
+    "text": "Accrued Pension Benefit (as of 2023):",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Accrued Pension Benefit (as of 2023):"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53025269dc069cd48c81078f63ab94ba",
+    "text": "Estimated Monthly Benefit at Retirement: $1,500 per month starting at age 65",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Estimated Monthly Benefit at Retirement:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c8e3943c33a1dcc4595fe3743d029dbf",
+    "text": "Other Benefits",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Other Benefits"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cd061b4b799ff071fe7be56a90ee6364",
+    "text": "Disability Insurance",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Disability Insurance"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cdb1886e33724c49b99f0f0ef3bbfe5c",
+    "text": "Short-Term Disability: 60% of weekly wages up to $1,000 per week, up to 26 weeks",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Short-Term Disability:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "eebfdb0f268a35d125df892b384ba41a",
+    "text": "Long-Term Disability: 50% of monthly wages up to $3,000 per month, after 180 days of disability",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Long-Term Disability:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0ed4e9d51d230c5702395e8af1fb088f",
+    "text": "Life Insurance",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Life Insurance"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "991550fa127b0eb37524acc0a97844c0",
+    "text": "Coverage Amount: $50,000 term life insurance policy",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Coverage Amount:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "70d757c70b0a0c5393dfeec74b58fdbf",
+    "text": "Accidental Death and Dismemberment (AD&D): Additional $50,000 coverage",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Accidental Death and Dismemberment (AD&D):"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1921ba03e9d3531468e5f920b79795b0",
+    "text": "Additional Perks",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Additional Perks"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d52e19f02e414cb38e057563dea53da6",
+    "text": "Legal Assistance: Free consultations and discounted rates on legal services",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Legal Assistance:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "f581c85a1e02723123df7964afa3b813",
+    "text": "Education Assistance: Up to $2,000 annually for job-related education and training",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Education Assistance:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cde41eae5033c2189240e6781b5ce759",
+    "text": "Childcare Assistance: Subsidies available for qualifying families",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Childcare Assistance:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "84c9cde85f93553e2c8b6c987722743e",
+    "text": "Summary of Benefits by Year",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Summary of Benefits by Year"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "baced2b8531a8094e1a9b28ccc158920",
+    "text": "Year Health Coverage Dental Coverage Vision Coverage Pension Contribution Other Benefits 2019 Active Active Active $5,000 Active 2020 Active Active Active $5,000 Active 2021 Active Active Active $5,000 Active 2022 Active Active Active $5,000 Active 2023 Active Active Active $5,000 Active",
+    "metadata": {
+      "emphasized_text_contents": [
+        "Year",
+        "Health Coverage",
+        "Dental Coverage",
+        "Vision Coverage",
+        "Pension Contribution",
+        "Other Benefits"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "text_as_html": "<table><tr><td>Year</td><td>Health Coverage</td><td>Dental Coverage</td><td>Vision Coverage</td><td>Pension Contribution</td><td>Other Benefits</td></tr><tr><td>2019</td><td>Active</td><td>Active</td><td>Active</td><td>$5,000</td><td>Active</td></tr><tr><td>2020</td><td>Active</td><td>Active</td><td>Active</td><td>$5,000</td><td>Active</td></tr><tr><td>2021</td><td>Active</td><td>Active</td><td>Active</td><td>$5,000</td><td>Active</td></tr><tr><td>2022</td><td>Active</td><td>Active</td><td>Active</td><td>$5,000</td><td>Active</td></tr><tr><td>2023</td><td>Active</td><td>Active</td><td>Active</td><td>$5,000</td><td>Active</td></tr></table>",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings.docx"
+        },
+        "date_modified": "1721329848.0",
+        "date_processed": "1741677871.0845823",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,1468 @@
+[
+  {
+    "type": "Header",
+    "element_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+    "text": "September 6, 2024\nPage 5",
+    "metadata": {
+      "category_depth": 0,
+      "header_footer_type": "primary",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "daa28b13d9af65d2b28d5515b42154e4",
+    "text": "[DATE]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "145a98cb887af058afcce9b070a68bda",
+    "text": "VIA [DELIVERY METHOD]",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "VIA",
+        "VIA",
+        "[DELIVERY METHOD]",
+        "[DELIVERY METHOD]"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "i",
+        "b",
+        "i"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "de3d8c93777b8dd4ee0205177a018fde",
+    "text": "[Client Name",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1229451ea48061b19b4c565bfa2e67bc",
+    "text": "Client Address",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0a40c78a2927357ef3c2c07b3391329f",
+    "text": "Client Email Address]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0e75bedf05db45a459b4de39ac62e437",
+    "text": "\tRe:\tStatus Report",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "02d84389c39b1b8fa02679962c3a3ce0",
+    "text": "\t\t[Case Name and Court Venue]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "825f2bfb6405c68e1c4d9e3c46d329fd",
+    "text": "Dear [Mr./Ms. Last Name]:",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5973c37fb529f95cbebb5c5153405400",
+    "text": "We write to provide you with this status report and recommendations for further handling.  \n",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c7ab35f66c74666af847bbd9a32bc664",
+    "text": "PROCEDURAL STATUS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "PROCEDURAL STATUS"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "14bc47696d576c72eeb916e137ebfa97",
+    "text": "[A description of the critical procedural events that have taken place since the claim was first received and what procedural events are imminently on deck.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "650834a56c65a494bb0d1bc842b93f11",
+    "text": "WORK PERFORMED",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "WORK PERFORMED"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a052baf35ac9ce46511bee4cc20d271a",
+    "text": "To date, we have done the following work to defend the claim:",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b4c5b1a10ea0f62657e351fa1bbf7bd5",
+    "text": "[List broad categories of work done to defend the claim.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "2d88571cac68a5feff0dc4b410d91160",
+    "text": "FACTS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "FACTS"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a789c981a7908b87d4afbe59fcd006e8",
+    "text": "CLAIMANT BACKGROUND",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "CLAIMANT BACKGROUND"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a51de556b91113792ec731964bbfa8e3",
+    "text": "[Discussion of who the claimant is and any background relevant to liability or damages.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b8a5a1270f80ecd091f3217d15547337",
+    "text": "CAUSE AND CIRCUMSTANCES OF INJURY OR LOSS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "CAUSE AND CIRCUMSTANCES OF",
+        "INJURY OR LOSS"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ca5240aa06c0d7003484d67126949ab4",
+    "text": "[Discussion of the events that led to injury or damage, the scope of the injury or damage, and why it occurred.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0dc5f2ec1563da3f7d258c7463c96f4c",
+    "text": "INJURY AND TREATMENT / OR DAMAGE AND REPAIR",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "INJURY AND TREATMENT",
+        "/",
+        "OR DAMAGE AND REPAIR"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d05ff5d666c5ed77d16b5221004c43c",
+    "text": "[Discussion of the aftermath of the injury or damage and the measures taken to treat or repair it, including the key players, the time it took, what remains to be resolved, and the cost (if known).]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "43d7dcd20b6a628e64e806be6f11b04d",
+    "text": "POST-INCIDENT DEVELOPMENTS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "POST-INCIDENT",
+        "DEVELOPMENTS"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "08de10f507c42e55c70d13530d1b3a63",
+    "text": "[Discussion of events that have transpired since the incident and aftermath that may affect liability and damages.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ff838c1b7b009b819e417c403d2282ae",
+    "text": "MITIGATING FACTORS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "MITIGATING FACTORS"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "89ef55a04c50a42b1b5129412e338a18",
+    "text": "[Discussion of most salient facts that may reduce the exposure on the claim.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d4fc67f591d2900b40020c1f1f74f8f9",
+    "text": "LIABIITY",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "LIABIITY"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53aaeffbea8c365d70208cd5ad962fe4",
+    "text": "APPLICABLE LEGAL STANDARDS FOR DETERMINING LIABILITY",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "APPLICABLE LEGAL STANDARDS FOR DETERMINING LIABILITY"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8468be178bf0eb8129c43294cfe6c123",
+    "text": "[Discuss applicable law to determine liability for the claim.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5400578ba2bc1926736a0e5578260ea4",
+    "text": "LIABILITY ANALYSIS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "LIABILITY ANALYSIS"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fc0fb0b7fcd836df48077e43079fd72f",
+    "text": "[Discussion of the facts as applied to the legal standards – break out by subheadings that address the major points of legal analysis.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8f5f18086541da71d81d0ec69718ca21",
+    "text": "COMPARATIVE FAULT",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "COMPARATIVE FAULT"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b3265898f5b61033b18f5f86d7663b9d",
+    "text": "[Discuss whether the claimant’s acts or omissions may qualify under applicable legal principles to reduce the claimant’s recovery by claimant’s own proportionate share of fault.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1dbd28a5e12ffb12be66484a7c0beb04",
+    "text": "CONTRIBUTORY FAULT",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "CONTRIBUTORY FAULT"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b09c6d61eeb2c7e2c31b72a2cffa4624",
+    "text": "[Discuss whether any third party acts or omissions may qualify under applicable legal principles to reduce Client’s proportionate share of fault by such third party’s proportionate share of fault.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0c2cd667e79317e0b2b21135fe7c1c60",
+    "text": "DAMAGES",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "DAMAGES"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "27126da2132d86883cc6faa9e3d5c5b2",
+    "text": "GENERAL DAMAGES",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "GENERAL DAMAGES"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77646013e9bfb0808f4b8ff87de79150",
+    "text": "[Discuss the range of pain and suffering here based on plaintiff’s verdict values for similar injuries under similar circumstances.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "727a6c2989ea3731d78bff55f45f9c1a",
+    "text": "ECONOMIC LOSS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "ECONOMIC LOSS"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "11f605b33affaf41b27a798e7f6ac94e",
+    "text": "[Discuss claimant’s earning loss as a result of the incident and any alternative work the claimant might be able to do to mitigate his or her earnings loss.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c61398cd4f480685fc0040fa7b3f09bd",
+    "text": "\tC.  MEDICAL SPECIALS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "C.",
+        "MEDICAL SPECIALS"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "6676fa8357da1aebbfbd0477b666c670",
+    "text": "[Discuss the extent of past and future medical care required to treat the injury and deal with ongoing symptoms and the cost of the same not paid for by insurance available to the claimant.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "224cc9b5649d9ee7937fe5dc22e585df",
+    "text": "VERDICT RANGE AND SETTLEMENT VALUE",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "VERDICT RANGE AND SETTLEMENT VALUE"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ad55e928f401709d4c08fddd45ad6ac7",
+    "text": "[Provide an estimated range of the verdict value based on similar verdicts with similar fact patterns, and estimate the settlement value based on strengths and weaknesses of the case.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5842455e4ec15534014e3f80141d1d8",
+    "text": "RECOMMENDATIONS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "RECOMMENDATIONS"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "943acf323a7b0d887f89cb7b68ae56ae",
+    "text": "[Provide recommendations for next steps of further handling and request authorization for any significant foreseeable expenditures necessary to continue to defend the case.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "00c2a3ccf2e4500fef8b0f4662500a15",
+    "text": "Sincerely,",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9617af5eb0e5fa3c2a279e8bb2662645",
+    "text": "                                                          /s/ [Attorney Name]",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "/s/",
+        "[Attorney Name]"
+      ],
+      "emphasized_text_tags": [
+        "i",
+        "i"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "be67755f64691267c6fa16080adf53d3",
+    "text": "[Law firm name.]",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Status Report.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "a847b2d58083ce6df2ca5e86c3adbf1e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Status Report.docx"
+        },
+        "date_modified": "1725654978.0",
+        "date_processed": "1741677871.1042159",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

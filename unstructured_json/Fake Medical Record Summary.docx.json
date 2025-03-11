@@ -1,0 +1,84 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "961b91e23235ca136209ac213081044a",
+    "text": "Claimant’s Medical Record Summary",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Claimant’s Medical Record Summary"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Record Summary.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Record Summary.docx"
+        },
+        "date_modified": "1721323904.0",
+        "date_processed": "1741677871.0967724",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "ca35d7a70c716fbb9bafa90a5ca7f60d",
+    "text": "Source Bates # Care Provider Entry Date Visit Date Summary Service Type Charges Amount Paid Plaintiff's RFPD Response No. 1 1 Dr. Smith, PCP 01/23/24 1/23/24 Pt presents after fall from ladder with severe left ankle pain and inability to bear weight. Exam reveals swelling, deformity, and tenderness. X-ray ordered. Diagnosis: Suspected ankle fracture. Office Visit $250 $200 Plaintiff's RFPD Response No. 1 2 Radiology, Sierra Vista 01/23/24 1/23/24 X-ray report confirms trimalleolar fracture of the left ankle. X-ray Report $500 $500 Plaintiff's RFPD Response No. 1 3 Dr. Jones, Ortho 01/24/24 1/24/24 Surgical consult. Diagnosis confirmed. Pt to undergo ORIF due to unstable fracture. Risks and benefits discussed. Surgery scheduled for 01/25/2024. Surgical Consult $300 $250 Plaintiff's RFPD Response No. 1 4 Sierra Vista Hospital Records 01/25/24 01/25/24 Pt undergoes ORIF of left ankle. Post-op diagnosis: Trimalleolar fracture, left ankle. Procedure notes indicate successful fixation. ORIF Procedure $8,000 $6,000 Plaintiff's RFPD Response No. 1 5 Sierra Vista Hospital Records 01/26/24 01/26/24 Post-op day 1. Pt reports pain controlled by medication. Incision clean, pulses palpable. Discharge planned for tomorrow with NWB instructions and follow-up with orthopedist in 1 week. Hospital Stay $1,200 $900 Plaintiff's RFPD Response No. 1 6 Dr. Jones 02/01/24 02/01/24 Post-op follow-up. Incision healing well, no signs of infection. Pt reports pain improving. Sutures removed. NWB status continued. Referral to physical therapy. Office Visit $150 $120 Plaintiff's RFPD Response No. 1 7 PT Notes 02/08/24 02/08/24 Initial PT evaluation. Pt presents with limited ROM, strength, and swelling. Gentle exercises initiated. Home exercise program provided. PT Evaluation $200 $160 Plaintiff's RFPD Response No. 1 8-9 PT Notes 02/15/24 02/15/24 Continued PT. Pt demonstrating gradual improvements in ROM and strength. Swelling decreasing. Pt tolerating increased weight-bearing activities. Physical Therapy $400 $320 Plaintiff's RFPD Response No. 1 10 Dr. Jones 02/22/24 02/22/24 Follow-up. X-rays show good alignment. Pt progressing well in PT. Weight-bearing status advanced to PWB. Discussion about return to work initiated. Office VisitX-ray $250$150",
+    "metadata": {
+      "emphasized_text_contents": [
+        "Source",
+        "Bates #",
+        "Care Provider",
+        "Entry Date",
+        "Visit Date",
+        "Summary",
+        "Service",
+        "Type",
+        "Charges",
+        "Amount Paid"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 1,
+      "text_as_html": "<table><tr><td>Source</td><td>Bates #</td><td>Care Provider</td><td>Entry Date</td><td>Visit Date</td><td>Summary</td><td>Service Type</td><td>Charges</td><td>Amount Paid</td></tr><tr><td>Plaintiff&#x27;s RFPD Response No. 1</td><td>1</td><td>Dr. Smith, PCP</td><td>01/23/24</td><td>1/23/24</td><td>Pt presents after fall from ladder with severe left ankle pain and inability to bear weight. Exam reveals swelling, deformity, and tenderness. X-ray ordered. Diagnosis: Suspected ankle fracture.</td><td>Office Visit</td><td>$250</td><td>$200</td></tr><tr><td>Plaintiff&#x27;s RFPD Response No. 1</td><td>2</td><td>Radiology, Sierra Vista</td><td>01/23/24</td><td>1/23/24</td><td>X-ray report confirms trimalleolar fracture of the left ankle.</td><td>X-ray Report</td><td>$500</td><td>$500</td></tr><tr><td>Plaintiff&#x27;s RFPD Response No. 1</td><td>3</td><td>Dr. Jones, Ortho</td><td>01/24/24</td><td>1/24/24</td><td>Surgical consult. Diagnosis confirmed. Pt to undergo ORIF due to unstable fracture. Risks and benefits discussed. Surgery scheduled for 01/25/2024.</td><td>Surgical Consult</td><td>$300</td><td>$250</td></tr><tr><td>Plaintiff&#x27;s RFPD Response No. 1</td><td>4</td><td>Sierra Vista Hospital Records</td><td>01/25/24</td><td>01/25/24</td><td>Pt undergoes ORIF of left ankle. Post-op diagnosis: Trimalleolar fracture, left ankle. Procedure notes indicate successful fixation.</td><td>ORIF Procedure</td><td>$8,000</td><td>$6,000</td></tr><tr><td>Plaintiff&#x27;s RFPD Response No. 1</td><td>5</td><td>Sierra Vista Hospital Records</td><td>01/26/24</td><td>01/26/24</td><td>Post-op day 1. Pt reports pain controlled by medication. Incision clean, pulses palpable. Discharge planned for tomorrow with NWB instructions and follow-up with orthopedist in 1 week.</td><td>Hospital Stay</td><td>$1,200</td><td>$900</td></tr><tr><td>Plaintiff&#x27;s RFPD Response No. 1</td><td>6</td><td>Dr. Jones</td><td>02/01/24</td><td>02/01/24</td><td>Post-op follow-up. Incision healing well, no signs of infection. Pt reports pain improving. Sutures removed. NWB status continued. Referral to physical therapy.</td><td>Office Visit</td><td>$150</td><td>$120</td></tr><tr><td>Plaintiff&#x27;s RFPD Response No. 1</td><td>7</td><td>PT Notes</td><td>02/08/24</td><td>02/08/24</td><td>Initial PT evaluation. Pt presents with limited ROM, strength, and swelling. Gentle exercises initiated. Home exercise program provided.</td><td>PT Evaluation</td><td>$200</td><td>$160</td></tr><tr><td>Plaintiff&#x27;s RFPD Response No. 1</td><td>8-9</td><td>PT Notes</td><td>02/15/24</td><td>02/15/24</td><td>Continued PT. Pt demonstrating gradual improvements in ROM and strength. Swelling decreasing. Pt tolerating increased weight-bearing activities.</td><td>Physical Therapy</td><td>$400</td><td>$320</td></tr><tr><td>Plaintiff&#x27;s RFPD Response No. 1</td><td>10</td><td>Dr. Jones</td><td>02/22/24</td><td>02/22/24</td><td>Follow-up. X-rays show good alignment. Pt progressing well in PT. Weight-bearing status advanced to PWB. Discussion about return to work initiated.</td><td>Office VisitX-ray</td><td>$250$150</td><td/></tr></table>",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Record Summary.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Record Summary.docx"
+        },
+        "date_modified": "1721323904.0",
+        "date_processed": "1741677871.0967724",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

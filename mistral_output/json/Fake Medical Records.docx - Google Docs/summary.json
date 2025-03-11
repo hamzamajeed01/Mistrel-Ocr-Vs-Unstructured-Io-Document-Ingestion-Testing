@@ -1,0 +1,11 @@
+{
+    "filename": "Fake Medical Records.docx - Google Docs.pdf",
+    "file_type": "PDF",
+    "file_size": "121.96 KB",
+    "processing_time": "2.35 seconds",
+    "pages": 4,
+    "total_images": 0,
+    "json_path": "mistral_output/json/Fake Medical Records.docx - Google Docs/ocr_response.json",
+    "markdown_path": "mistral_output/markdown/Fake Medical Records.docx - Google Docs/Fake Medical Records.docx - Google Docs.md",
+    "images_dir": "mistral_output/images/Fake Medical Records.docx - Google Docs"
+}

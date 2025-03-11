@@ -1,0 +1,1420 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "352757e962be6efa36fe6e76f25f75c3",
+    "text": "Deposition Transcript of Herman Bogie",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Deposition Transcript of Herman Bogie"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "203e0ced93ce768dfd7bc66bbe5b1858",
+    "text": "Deposition Date: April 1, 2024\nLocation: Law Offices of Smith & Associates\nCase: John Doe v. Sierra County and Fairs Are Us\nDeposition of: Herman Bogie\nTaken by: Counsel for Plaintiff\nPresent:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Deposition Date:",
+        "Location:",
+        "Case:",
+        "Deposition of:",
+        "Taken by:",
+        "Present:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "8fe5934a0f83b115b7a3cb4d0affa955",
+    "text": "Plaintiff's Counsel: Jane Smith, Esq.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "6717ebcd150c13831796f7d643e1371c",
+    "text": "Defendants' Counsel: Robert Brown, Esq.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Defendants' Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5d6bd10d17c61a309c8f57f3cab23be4",
+    "text": "Court Reporter: Mary Johnson",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Court Reporter:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e06d61e75758a0d24fc0292b49d15568",
+    "text": "Court Reporter: Please raise your right hand. Do you swear or affirm to tell the truth, the whole truth, and nothing but the truth?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Court Reporter:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9cd68d293261e51882ea560bcd9be37a",
+    "text": "Herman Bogie: I do.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9cb1ba6d1aeeba0a2c6027e160457da5",
+    "text": "Court Reporter: Please state your name for the record.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Court Reporter:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d2e73321e98870fae5f82641990b9591",
+    "text": "Herman Bogie: Herman Bogie.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "467331dd9077ac528584966da370c503",
+    "text": "Plaintiff's Counsel: Good morning, Mr. Bogie. My name is Jane Smith, and I represent John Doe in this matter. Could you please state your full name and position for the record?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "626eebef46830e6a686e3012e3d70844",
+    "text": "Herman Bogie: My name is Herman Bogie, and I am the general manager of Fairs Are Us.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f0edc76412c5f3fb3590a7a9c80ee3e5",
+    "text": "Plaintiff's Counsel: How long have you been in this position?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "742572358f63d49084ba9dea03650ee3",
+    "text": "Herman Bogie: I've been the general manager for about five years now.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8ac53bd1c8830f1f8cdfd8a0d51b79eb",
+    "text": "Plaintiff's Counsel: Were you present at the Sierra County Fair on January 23, 2024, the day of the incident involving John Doe?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "59bd782edc0551e0d5030ce081b4ecc4",
+    "text": "Herman Bogie: Yes, I was on site that day.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b98b9190f5394fa23972c9feeb3ce971",
+    "text": "Plaintiff's Counsel: Can you describe your responsibilities as the general manager on the day of the incident?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e222e57628e5c54f70d134df6a77e59b",
+    "text": "Herman Bogie: My responsibilities include overseeing the operations of the fair, ensuring safety protocols are followed, managing staff, and addressing any issues that arise during the event.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "02d89fc259853f775866a3c596b561cb",
+    "text": "Plaintiff's Counsel: Does Fairs Are Us have an Injury and Illness Prevention Policy, or IIPP?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f8355728466d93a217b6539a3761978f",
+    "text": "Herman Bogie: Yes, we do.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "944b36f638419701076606f881600c2c",
+    "text": "Plaintiff's Counsel: Can you briefly describe the key components of the IIPP?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a033051fe4301f0a8e176b5a41f27e80",
+    "text": "Herman Bogie: The IIPP includes regular inspections for hazards, procedures for addressing and remediating hazards, training for employees on hazard recognition and reporting, and maintaining records of all safety-related activities.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "2e9398318772db83950d4f1f10c993d7",
+    "text": "Plaintiff's Counsel: Was the IIPP followed on the day of the incident?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "adf678858e5d6ed2ff3a5551ad5e6fd1",
+    "text": "Herman Bogie: To the best of my knowledge, yes, the IIPP was followed on that day.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c4ef8ed65e2454a6280d0cf402a026f2",
+    "text": "Plaintiff's Counsel: How do you know that the IIPP was followed on January 23, 2024?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fa529d82858b7b82255b495804bbf290",
+    "text": "Herman Bogie: We have a structured process for daily inspections, and all activities are documented. I reviewed the inspection reports for that day, and everything was conducted as per our standard procedures.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e20c1c7540fbd58ea08ef251a2dfb76c",
+    "text": "Plaintiff's Counsel: Can you provide more detail about the inspection process that was carried out on the morning of the incident?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "127ca735622fc510e4f374e7ae479e1f",
+    "text": "Herman Bogie: Sure. Every morning, before the fair opens, our safety officers conduct a comprehensive walk-through of the entire fairgrounds. They use a detailed checklist to identify any potential hazards. These checklists are then submitted to me for review and filed for recordkeeping.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b0675967d384d050a1b10483ae7c895",
+    "text": "Plaintiff's Counsel: Did you personally review the inspection report from the morning of January 23, 2024?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ed90db7f06c82dc3bf9fb02047b7aaf9",
+    "text": "Herman Bogie: Yes, I did. I review all inspection reports daily to ensure that any identified hazards are addressed immediately.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d9b975bb20c4c21f4e5dc84a591bbc21",
+    "text": "Plaintiff's Counsel: Were there any hazards identified during the inspection on the morning of the incident?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "12488ebfbde61ba8e58ee622dd519811",
+    "text": "Herman Bogie: According to the inspection report, no significant hazards were identified in the area of the Tilt-A-Whirl ride or its exit path.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9ca4bd8312da6328177c7b974cfe9068",
+    "text": "Plaintiff's Counsel: If a hazard had been identified, what would the procedure have been to address it?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "40d2815b1ed9e48c9318185971dda9e3",
+    "text": "Herman Bogie: If a hazard is identified, it is marked immediately, and the necessary remediation steps are taken as soon as possible. The action taken is then documented in a follow-up report.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "00b05ff95b40d41e2787f347ccf1192e",
+    "text": "Plaintiff's Counsel: Thank you. In the aftermath of the incident involving John Doe, did anyone report that Mr. Doe had been acting drunk?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4973492e1b4020603aab92f5d34990d7",
+    "text": "Herman Bogie: Yes, one of our staff members, Julie Hing, mentioned that she thought Mr. Doe appeared to be intoxicated.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0d0fc51c0962114f3996dbc33b3576cf",
+    "text": "Plaintiff's Counsel: What actions, if any, were taken based on Ms. Hing's observation?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d332b8db2a5f4d7573da10969e4026f9",
+    "text": "Herman Bogie: We did not take any specific actions based on that observation at the time, as our primary focus was on providing immediate medical assistance to Mr. Doe.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "be6ed0ee6a22a3e56c962d230d7c9aa6",
+    "text": "Plaintiff's Counsel: Thank you, Mr. Bogie. I have no further questions at this time.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff's Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "45af5f10028c5e9b80fbdf3593778fb5",
+    "text": "Defendants' Counsel: I have a few questions, Mr. Bogie. Can you confirm that Fairs Are Us maintains comprehensive records of all safety inspections and hazard reports?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Defendants' Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b33a92362dc6b58da2c24dfb050c19e9",
+    "text": "Herman Bogie: Yes, we maintain comprehensive records as part of our commitment to safety and compliance with our IIPP.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1b28552e9179ff756a9f59fff6e20346",
+    "text": "Defendants' Counsel: And to your knowledge, were all required inspections and safety measures in place and documented on the day of the incident?",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Defendants' Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "5619e8141a07a9cbf4c8575934c3c8eb",
+    "text": "Herman Bogie: Yes, to my knowledge, all required inspections and safety measures were in place and documented.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Herman Bogie:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "ae235f101b585242ce220bc3fc2cb9f2",
+    "text": "Defendants' Counsel: Thank you, Mr. Bogie. I have no further questions.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Defendants' Counsel:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "97f735d444311affbf9854c170d7db4e",
+    "text": "Court Reporter: The deposition is concluded at 10:45 AM.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Court Reporter:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Defense Deposition.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Defense Deposition.docx"
+        },
+        "date_modified": "1719081378.0",
+        "date_processed": "1741677871.081051",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

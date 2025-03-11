@@ -1,0 +1,4120 @@
+[
+  {
+    "type": "Header",
+    "element_id": "663cf4ba8a59844e6ae323ccd77a5e90",
+    "text": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28",
+    "metadata": {
+      "category_depth": 0,
+      "header_footer_type": "primary",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Title",
+    "element_id": "04e57fece476b7696c238630369ca68e",
+    "text": "ORACLAIM PARTNERS LLP",
+    "metadata": {
+      "category_depth": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "663cf4ba8a59844e6ae323ccd77a5e90",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "36d0e9550b6d493d408cd693ddf2ec18",
+    "text": "Emelia C. Zarzuela (SBN 002456)",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5cd3e0d635afd56101b3337d9e36ce7c",
+    "text": "Robert T. Brown (SBN 005778)",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "06e0ee557fdd72cbe594ec7bcb707eb0",
+    "text": "335 Elm Street, Suite 350",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "aa819f207116747d55131a9cf8f9fb77",
+    "text": "San Francisco, CA  94111",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6ed58e89589d9fbdc7dbac1fe676e564",
+    "text": "Telephone No.: 415-555-4600",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bcab9f8e2d4cac0ab93a256ac803dde9",
+    "text": "Facsimile No.: 415-555-4601",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b780e7840bfa9e5a51575cc9e9a000ac",
+    "text": "Attorneys for Defendants",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a21ea06c8fd2597b60498b9f068344e7",
+    "text": "FAIRS ARE US, INC. and COUNTY OF SIERRA",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "480e80eca8b5c2afff7455872ec6fd53",
+    "text": "SUPERIOR COURT OF THE STATE OF CALIFORNIA",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "SUPERIOR COURT OF THE STATE OF CALIFORNIA"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1fa0a28af094596a28c4e1c6bc295ce6",
+    "text": "COUNTY OF SIERRA",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "COUNTY OF",
+        "SIERRA"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "b062a9544503765151ef627310762f70",
+    "text": "JOHN DOE Plaintiff, vs. FAIRS ARE US, INC., COUNTY OF SIERRA, and DOES 1 through 25, inclusive, Defendants. Case No. CGG-24-555555 Action Filed:  January 5, 2024 Trial Date:  TBD DEFENDANT FAIRS ARE US INC.’S REQUESTS FOR PRODUCTION, SET ONE",
+    "metadata": {
+      "emphasized_text_contents": [
+        "DEFENDANT FAIRS ARE US INC.’S REQUESTS FOR PRODUCTION, SET ONE"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "text_as_html": "<table><tr><td>JOHN DOE Plaintiff, vs. FAIRS ARE US, INC., COUNTY OF SIERRA, and DOES 1 through 25, inclusive, Defendants.</td><td/><td>Case No. CGG-24-555555 Action Filed: January 5, 2024 Trial Date: TBD DEFENDANT FAIRS ARE US INC.’S REQUESTS FOR PRODUCTION, SET ONE</td></tr></table>",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "47752a6fdc79ed71988f00a82a2b36cf",
+    "text": "Propounding Party:\tDefendant FAIRS ARE US, INC.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "956524dda14dbe2264e20c21d55c353f",
+    "text": "Responding Party:\tPlaintiff JOHN DOE",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e09606689f25e93c043405c77ada0a87",
+    "text": "Set No.:\t\t\tONE",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "da36f06e7ca50c8866ad7016e5cfe662",
+    "text": "TO PLAINTIFF AND HIS ATTORNEYS OF RECORD:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "TO PLAINTIFF AND",
+        "HIS",
+        "ATTORNEY",
+        "S OF RECORD:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "fb415580cb333e72591e1915b8202ce5",
+    "text": "Pursuant to California Code of Civil Procedure § 2031.010, Defendant FAIRS ARE US, INC. (“Defendant”) serves this Demand for Production of Documents, Set No. One, upon Plaintiff JOHN DOE (“Plaintiff”), and requests that Plaintiff produce and permit Defendant to inspect and copy the documents, writing, and other tangible things designated below.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "48d01a2d00c38e238515cb9cd682a278",
+    "text": "The material requested shall be produced for inspection and copying by the propounding party within thirty (30) days after service at 10:00 a.m. at the law offices of Oraclaim Partners LLP, 335 Elm Street, Suite 350, San Francisco, California, 94111, telephone: (415) 555-4600.  In lieu of permitting the inspection and copying of original documents on that date, copies of the responsive documents and other original prints of photographs may be sent to the attorneys for Defendant to be received by the date of production. The materials produced shall either be (1) produced as they are kept in the usual course of business, or (2) organized and labelled with exhibit numbers which correspond to each request so that said response will accurately show the specific categories of materials produced by Plaintiff or the absence thereof. ",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9a76a2a7cd3a76b6dfd5308bef80f253",
+    "text": "If the original of a document, writing or other tangible thing is within your possession, custody, or control, produce it; if not, produce such copy of it as is in your possession, custody or control.  Any copy which has any notation, addition, modification, alteration, or change is to be treated as constituting an additional original.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ae1eaed54140762df0d6d1e379ad3db3",
+    "text": "DEFINITION OF TERMS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "DEFINITION OF TERMS"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b761e476382c280ae489e1748b6b1aec",
+    "text": "“DOCUMENT” or “DOCUMENTS” means a writing, as defined in Evidence Code § 250, and includes the original or a copy of handwriting, typewriting, printing, photostating, photographing, photocopying, transmitting by electronic mail or facsimile, and every other means of recording upon any tangible thing, any form of communication or representation, including letters, words, pictures, sounds, or symbols, or combinations thereof, and any record thereby created, regardless of the manner in which the record has been stored.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "061984ede4304009fe9253952dcb5d17",
+    "text": "“YOU” or “YOUR” refers to the plaintiff, his agents, his employees, his insurance companies, their agents, their employees, his attorneys, his accountants, his investigators, and anyone else acting on his behalf.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "814cbb3e0679a5b6e32865915a57c89e",
+    "text": "“INCIDENT” refers to the circumstances and events described in Plaintiff’s complaint, which give rise to this action.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "06df58ae5abacdd334d027f287d8cf58",
+    "text": "“THIS LITIGATION,” “THIS LAWSUIT,” or the “COMPLAINT” all refer to the civil action described in the caption and on this pleading.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bbd403c6b2804ef7793f4a43cfa30e45",
+    "text": "REQUESTS FOR PRODUCTION",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUESTS FOR PRODUCTION"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "66712f315af38477eaf3246d21049e1c",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "54673d34dcd520119e7710012635e4f3",
+    "text": "\tYOUR Driver’s License or Identification Card. ",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1274d95a49d34d9ac658d1396b0e5291",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d471e4ae7633879ef6577a6c78109a2b",
+    "text": "\tYOUR Social Security Card.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e1baff3dfe61c42e83d00b08e2ade683",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "899b2e156de0f5520585101e235f5d3c",
+    "text": "\tAny and all diplomas or certificates of completion for any kind of education YOU have received since 1995.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "599c9e1fee43214be58c06b420d25c8d",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8f0a97aab2c0038806a2ca6b02dc667e",
+    "text": "Any and all DOCUMENTS related to any kind of occupational training YOU have received since 1995.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d2e2130250820110f65226a8d57608d5",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9124cd7dee538f53109559502232b29b",
+    "text": "\tAny and all DOCUMENTS related to any kind of vocational rehabilitation YOU have received since 1995.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e464978152a391df7583cba5eebfc044",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c6cfd1501ebda390d7dfcd0949df2923",
+    "text": "\tAny and all DOCUMENTS related to any kind of vocational rehabilitation consultation YOU have had since the date of the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e2cdee10d6b95481231d7781028ee5dd",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "290525a7bf6851e5cb28f47c8f7d1bfd",
+    "text": "\tAny and all DOCUMENTS relating to or evidencing YOUR service in any branch of the United States military or the military service of any foreign country.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "23b2619a901a8da5307680f1bde64abd",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1d7ef399fb55dd1ed36a71893a51d4de",
+    "text": "\tAny and all employment records from any of YOUR past employers.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "14a6724e7dc1bc1eb201796c4f9ee664",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "51df681a0533de7dd1e53e1daee4d0e3",
+    "text": "\tAny and all employment records from YOUR current employer(s).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "74736dd0b9f93a54c0beed2783d15c26",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "381b576e9424ab6b595da8ca82e0e373",
+    "text": "Any and all disciplinary records for any of YOUR employers from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "0425a2019876b9df69477ab98ae4f4c9",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "R",
+        "EQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0b5495dea9888a81a69424ab334d4d65",
+    "text": "Any and all weekly meeting logs for any of YOUR employers from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "18013e381ae8bc03a80849b29dc98382",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52bd7a9dce8df8a553154c5f6d77d60f",
+    "text": "Any and all overtime records for any of YOUR employers from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2cb32756980bc6dcf455fee261a8b855",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "502d1aa46483bde2fbd9547ac794e7ed",
+    "text": "Any and all incident reports for any of YOUR employers from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6b7507b73750c073fc3ac7fb4a806e59",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3ac8d4b12d91212784e4f5e5701d17f0",
+    "text": "Any and all notices of discharge for any of your employers from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "029ecb1494c1eca009dff6c863ab4dde",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "db3bbcf19577e6a5832897c2a4714371",
+    "text": "\tAny and all DOCUMENTS related to employment agreements YOU have entered into since the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c5ec179a1ac7fa3924c16566a07f382c",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "34f91203479c450c1eb1ad21fe56671c",
+    "text": "\tAny and all DOCUMENTS concerning unemployment benefits YOU have sought from any entity, including federal or state governments or private companies, from 2007 to present (including but not limited to, unemployment compensation applications, correspondence, statement of benefits, acceptance or rejection of benefits, payments received, or other).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "375f1e5ec25fcd9ea19b9241f0811e03",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "83be036ba2833f89f736f0593fa55157",
+    "text": "\tAny and all DOCUMENTS concerning disability benefits YOU have sought from any entity, including federal or state governments or private companies, from 2007 to present (including but not limited to, disability compensation applications, correspondence, statement of benefits, acceptance or rejection of benefits, payments received, or other).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "abb3c6f4bd65ecf901812f4068e58598",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "021a4b402dad3b6c4eef86fb2b39d94b",
+    "text": "\tAny and all DOCUMENTS showing any income you have earned from 2007 to present (including but not limited to, check stubs, W-2 Statements, or other).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "15bda78bb67d70785d77310c00407361",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7e8d3cee7a20cf3b41caa0dbfad612b7",
+    "text": "Any and all DOCUMENTS showing any income YOU received from any source other than Defendant from 2007 to present (including but not limited to, every financial statement, profit and loss statement, earnings statement, or checking account register).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "41b16f34ceaed82ad8515db6dedb74ca",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1382866001fa060e7acb36abb0125dd9",
+    "text": "\tEvery state and/or federal tax return which YOU have filed from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c6c97e1f24e5b1921dd922f7b1e8ed4a",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "748a603d809f9d80ecc040cc27a273f0",
+    "text": "\tYOUR most recent Social Security Earnings Statement.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d6b7cf3dc2debad8239f369734a87408",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bc338f2e60b215762b486dc16d1be712",
+    "text": "\tYOUR Social Security Earnings Statement from the year prior to the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a406696a8eb3daa5f1b15de718ae424c",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a4075918d27de77f3986fdcf2419ccb8",
+    "text": "\tAny and all DOCUMENTS which support YOUR claim of lost earnings.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "22db3af9594d283b58b7d9e3b97b8378",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "0680b12b800ac8a692f902dc8dbb9d0e",
+    "text": "Any and all DOCUMENTS which support YOUR claim of loss of earning capacity.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cb26c65dcfeb2267a716ae1e12d75136",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "599e5b042ccca2b44d95088e11cd642a",
+    "text": "\tAny and all DOCUMENTS regarding YOUR membership in each and every union of which YOU were a member at the time of the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2a4f3222ebec801998dc25cb0786137c",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "77970cb5b0eab121b39c81c42b6bf7c8",
+    "text": "\tAny and all union dispatch slips related to YOUR work for any employer from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "791cdce686db695c37f75b62ad937630",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "38a6976e4339b1f3d480bc82551bb85f",
+    "text": "Any and all union discharge slips related to YOUR work for any employer from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c57a024d5199cdc92e27e880526e4a30",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3222c1e58ab3de74530cde73ff14a03",
+    "text": "\tAny and all DOCUMENTS which depict the scene of the INCIDENT and/or any locations adjacent thereto (including but not limited to, photographs, videos, films, diagrams, charts or others).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2d8c00141cbe71d3c0176c44ec2f7efd",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b8f68b2a0fea9b8233521ad1573a40d",
+    "text": "\tAny and all DOCUMENTS which depict any object involved in the INCIDENT (including but not limited to, photographs, videos, films, or others).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c6b083db8051409c15785cbc4e8a3fac",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c2ce5fc5ca04e09963b05eace71cc721",
+    "text": "Any and all DOCUMENTS which depict any injury involved in the INCIDENT (including but not limited to, photographs, videos, films, or others).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6789dd0aa367496afa54d004ccaafda9",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d7c922f723b6054be604bb701f193b64",
+    "text": "\tAny and all DOCUMENTS which contain a description of the INCIDENT, (including but not limited to, incident reports, doctor’s first report of work injury, or other).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "728c5569ce888da7072ff2156229da72",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "3d9f3964384f4a62a0351163c39e02ae",
+    "text": "\tAny and all DOCUMENTS which contain a written statement related in any way to the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "32d1d0f84a320e32b42b8e53ec7165b5",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c8931beb0d8326bca8043cf642575886",
+    "text": "\tAny and all DOCUMENTS which contain a recorded statement related in any way to the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "34250922d9b435aab1b9d308760cfcf5",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "625ecec7777640cdff71fdfdf71787dd",
+    "text": "\tAny and all DOCUMENTS which transcribe or record any oral statement made by any person describing the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4e47cc63d67d6ee8c9e3fa6b57a5ab51",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d72fe802fd58446abfdc8a770cf12c3e",
+    "text": "\tAny and all DOCUMENTS related to any and all medical or physical exams that YOU have undergone related to YOUR work with any employer from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c61b68290f07c1c8c72b3f022f6b6430",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "700c663a05cf12ca8872c641df4eba8b",
+    "text": "\tAny and all DOCUMENTS which pertain to the diagnosis and treatment of the physical injuries which YOU contend that YOU sustained in the INCIDENT (including but not limited to, medical bills or statements, medical reports, other medical or hospital records, or other).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "5efc757371c23080cf57f0d443852304",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "64816c402e6309ca1f3728fa70bce072",
+    "text": "\tAny and all DOCUMENTS reflecting YOUR fitness to work (fit-for-duty-status) since the date of the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "757a8c69887a9137077afcb6bafe2af3",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "1cb8845e2a737dbfc16db2b31f5f7319",
+    "text": "\tAny and all DOCUMENTS that support your claim for future medical expenses in connection with the INCIDENT giving rise to this LITIGATION.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "269b8bc65dcb329c0e4ef7af6fc22be3",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "46f16cecc314167213a1016e5d51e628",
+    "text": "\tAny and all DOCUMENTS that support your claim for past medical expenses in connection with the INCIDENT giving rise to this LITIGATION.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "063460f0ef3c1b129d08443a6346dbbd",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "7f1b8b73f3e3ec53d24e0e6031d6527b",
+    "text": "\tAny and all DOCUMENTS pertaining to medical treatment for the part(s) of YOUR body claimed to have been injured in the INCIDENT, whether or not such records were created before or after the date of the INCIDENT (including but not limited to, medical records, bills, reports, x-rays and other radiographic studies).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "cb70994428bb1ceb8a4bf49ac78870db",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "78423cef3741cbed4de612bb67b9acba",
+    "text": "\tAny and all DOCUMENTS prepared by YOU and pertaining in any way to YOUR injuries alleged in the COMPLAINT (including but not limited to, notes, diary entries, log book entries, calendar entries, daytimer/personal planner entries, or other).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "166b919e5047cfcd02f51e900e58fcba",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "059a93a358bbe198d3bcadcb766be84b",
+    "text": "\tAny and all DOCUMENTS reflecting any item of damages claimed in the COMPLAINT (including but not limited to, bills, invoices, statements, or other).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "2c78b841b0a62c5315b143fc7f630239",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "52aae9c1e48f13b2a21605cb36556237",
+    "text": "\tAny and all DOCUMENTS that support your claim for general damages in connection with the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "802e64fcde929c35f524184310ae1062",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "cc25992b707b537316eed799cbf27057",
+    "text": "\tAny and all DOCUMENTS which support YOUR claim of Defendant’s negligence as YOU allege in the COMPLAINT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4b05d5f7a26380d5c97f03f255d7350f",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "262902014f86b0daa8c9d053c815f188",
+    "text": "\tAny and all retirement DOCUMENTS that YOU submitted to any entity (including but not limited to, unions or employers).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8a398a2359ccf4b18f680c04f5337e90",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9cc025756ea3b7af57751c427bec9fd5",
+    "text": "\tAny and all DOCUMENTS which describe any pension plans YOU have been enrolled in from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6e4b26710676ec3c0fc0f90967e3c48d",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "9b312e144cadb33d6f6493af55a9f8e6",
+    "text": "\tAny and all DOCUMENTS which describe any disaibility plans YOU have been enrolled in from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d7c882299658f4b2efd0b0f9980802b8",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "621f00be61e0ff6c1417a26676196777",
+    "text": "\tAny and all DOCUMENTS which describe any retirement plans YOU have been enrolled in from 2007 to present.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ae33b75e1e577eecefee6f52bf6f16e5",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "abb5e6d2ca03b569746ea870a2a66ebe",
+    "text": "\tAny and all medical insurance policies that provide coverage for the injuries alleged in YOUR COMPLAINT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "00b7ad6c7f7c76e068c773435fa0bb0a",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "de96a50a53260ddcae9d6f56bfa77921",
+    "text": "\tAny and all physical evidence concerning the INCIDENT in your care, custody, or control.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "70764835dfc97d8aa7483fe468ec1a6c",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "75cc85526e6b6e60292a8f00766234ce",
+    "text": "Any and all DOCUMENTS that YOU contend support your claim of Jones Act Seaman status at the time of the INCIDENT.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "400d119e45947951bc645ffd916680f9",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "caa0fdf27fb23dc3aefff7138c332cd2",
+    "text": "\tAny and all DOCUMENTS that refer to or reflect YOUR recreational pursuits since the INCIDENT (including but not limited to, emails, tickets, and receipts related to vacation travel, concerts, sports venues, hobbies, or other).",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8716a6e73981baf5b8925d1b875aa0d9",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "d0de6a7ad409ca5451ef9a9e8b4ae4ce",
+    "text": "Any and all DOCUMENTS and things you described in your response to Special INTERROGATORY NO. 27.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "25a60c6ff848af6ae8f5fb066ae4ccc5",
+    "text": "REQUEST FOR PRODUCTION NO. :",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "REQUEST FOR PRODUCTION NO.",
+        ":"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "4036b19f90dcb2deeb477a52a930210d",
+    "text": "Any and all DOCUMENTS and things you described in your response to Special INTERROGATORY NO. 30.",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "803d0251212bc512a4e358f15e0de0a5",
+    "text": "Dated:  July 16, 2024\t\t\t\tORACLAIM PARTNERS LLP",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c77408ef0cf23410171d8fcee7f32075",
+    "text": "Attorneys for Defendant ",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "786ff3bd7ad40572dc49d34649982c2a",
+    "text": "FAIRS ARE US, INC. ",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "26d9dbce2def4da58923155d75626ff4",
+    "text": "     \tBy:_________________________________",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "b58c7c5bb094c3b366019b0e605519c0",
+    "text": "\t\t\t\t\t\t\tRobert T. Brown",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "04e57fece476b7696c238630369ca68e",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Footer",
+    "element_id": "195b24a99add930ef03cd7408f6d10ab",
+    "text": "-10-\nDEFENDANT’S REQUEST FOR PRODUCTION OF DOCUMENTS TO PLAINTIFF, SET ONE",
+    "metadata": {
+      "category_depth": 0,
+      "header_footer_type": "primary",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Request for Production of Documents.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Request for Production of Documents.docx"
+        },
+        "date_modified": "1730500846.0",
+        "date_processed": "1741677871.102718",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

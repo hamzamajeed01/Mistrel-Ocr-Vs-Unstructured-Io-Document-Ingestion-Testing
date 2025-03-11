@@ -1,0 +1,11 @@
+{
+    "filename": "2020-02_fp.pdf",
+    "file_type": "PDF",
+    "file_size": "461.48 KB",
+    "processing_time": "3.85 seconds",
+    "pages": 29,
+    "total_images": 0,
+    "json_path": "mistral_output/json/2020-02_fp/ocr_response.json",
+    "markdown_path": "mistral_output/markdown/2020-02_fp/2020-02_fp.md",
+    "images_dir": "mistral_output/images/2020-02_fp"
+}

@@ -1,0 +1,11 @@
+{
+    "filename": "20-1361.pdf",
+    "file_type": "PDF",
+    "file_size": "4.33 MB",
+    "processing_time": "8.89 seconds",
+    "pages": 40,
+    "total_images": 7,
+    "json_path": "mistral_output/json/20-1361/ocr_response.json",
+    "markdown_path": "mistral_output/markdown/20-1361/20-1361.md",
+    "images_dir": "mistral_output/images/20-1361"
+}

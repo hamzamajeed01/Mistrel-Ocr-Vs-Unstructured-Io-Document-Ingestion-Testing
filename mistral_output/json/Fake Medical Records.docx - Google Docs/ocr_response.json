@@ -1,0 +1,49 @@
+{
+    "pages": [
+        {
+            "index": 0,
+            "markdown": "# Patient Information \n\nName: John Doe\nDOB: $07 / 15 / 1980$\nAge: 43\nGender: Male\nEthnicity: Caucasian\nHeight: 6'0\"\nWeight: 227 lbs\nOccupation: Construction Worker\n\n## Initial Visit - Emergency Department\n\nDate: 05/01/2023\nPhysician: Pedro Velez, MD\nNurse Practitioner: Mary Martin, NP\n\n## Chief Complaint:\n\nPatient presents with severe pain, swelling, and inability to bear weight on the left ankle following a fall at a construction site.\n\n## History of Present Illness:\n\nThe patient reports falling off a ladder approximately 10 feet. Immediate pain and swelling were noted in the left ankle.\n\n## Physical Examination:\n\n- Vital Signs: BP: 130/85, HR: 82 bpm, RR: 18, Temp: $98.6^{\\circ} \\mathrm{F}$\n- Inspection: Significant swelling and bruising around the left ankle.\n- Palpation: Tenderness over the lateral malleolus, crepitus felt.\n- Range of Motion: Severely limited due to pain.\n- Neurological: Sensation intact distally.\n- Circulatory: Pulses present and strong.\n\n\n## Imaging:\n\n- X-ray: Comminuted fracture of the distal fibula with displacement.\n\n\n## Assessment:\n\n- Comminuted fracture of the distal fibula (left ankle).\n\n\n## Plan:\n\n- Reduction and immobilization in a posterior splint.",
+            "images": [],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2200,
+                "width": 1700
+            }
+        },
+        {
+            "index": 1,
+            "markdown": "- Pain management: Prescribed hydrocodone/acetaminophen 5/325 mg, 1-2 tablets every 6 hours as needed.\n- Referral to orthopedic surgery for operative intervention.\n\n\n# Operative Report \n\nDate: 05/02/2023\nSurgeon: Pedro Velez, MD\n\n## Preoperative Diagnosis:\n\nComminuted fracture of the distal fibula (left ankle).\n\n## Postoperative Diagnosis:\n\nSame.\n\n## Procedure:\n\nOpen reduction and internal fixation (ORIF) of the left distal fibula.\n\n## Anesthesia:\n\nGeneral anesthesia.\n\n## Findings:\n\nThe fracture was comminuted and displaced. Successful reduction and stabilization achieved with plate and screws.\n\n## Complications:\n\nNone.\n\n## Discharge Plan:\n\n- Weight-bearing: Non-weight-bearing on the left leg.\n- DVT prophylaxis: Prescribed enoxaparin 40 mg subcutaneously daily.\n- Follow-up appointment in 1 week.\n\n\n## Follow-Up Visit 1\n\nDate: 05/09/2023\nPhysician: Pedro Velez, MD\nNurse Practitioner: Mary Martin, NP\n\n## Subjective:\n\nPatient reports significant pain improvement, slight swelling persists.\n\n## Objective:\n\n- Inspection: Incision site clean, dry, and intact.",
+            "images": [],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2200,
+                "width": 1700
+            }
+        },
+        {
+            "index": 2,
+            "markdown": "- Palpation: Mild tenderness.\n- Range of Motion: Limited but improving.\n\n\n# Assessment: \n\n- Post-operative status is stable with no signs of infection.\n\n\n## Plan:\n\n- Continue pain management as needed.\n- Initiate physical therapy for range of motion exercises.\n- Follow-up in 4 weeks.\n\n\n## Follow-Up Visit 2\n\nDate: 06/06/2023\nPhysician: Pedro Velez, MD\nNurse Practitioner: Mary Martin, NP\n\n## Subjective:\n\nPatient reports increased mobility and decreased pain.\n\n## Objective:\n\n- Inspection: Incision healed.\n- Palpation: No tenderness.\n- Range of Motion: Improved significantly.\n- Strength: $4 / 5$ in left ankle.\n\n\n## Assessment:\n\n- Healing progressing well.\n\n\n## Plan:\n\n- Transition to weight-bearing as tolerated.\n- Continue physical therapy.\n- Follow-up in 6 weeks for evaluation and potential removal of hardware.\n\n\n## Final Follow-Up Visit\n\nDate: 08/15/2023\nPhysician: Pedro Velez, MD\nNurse Practitioner: Mary Martin, NP",
+            "images": [],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2200,
+                "width": 1700
+            }
+        },
+        {
+            "index": 3,
+            "markdown": "# Sierra Vista Medical Center \n\n## Subjective:\n\nPatient reports full return to normal activities with minimal discomfort.\n\n## Objective:\n\n- Inspection: No swelling or erythema.\n- Palpation: No tenderness.\n- Range of Motion: Full range of motion achieved.\n- Strength: $5 / 5$ in left ankle.\n\n\n## Assessment:\n\n- Fully healed with no complications.\n\n\n## Plan:\n\n- Discharge from regular follow-up.\n- Advise patient on gradual return to full activity.\n- Schedule hardware removal if symptomatic in the future.",
+            "images": [],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2200,
+                "width": 1700
+            }
+        }
+    ],
+    "model": "mistral-ocr-2503-completion",
+    "usage_info": {
+        "pages_processed": 4,
+        "doc_size_bytes": 124892
+    }
+}

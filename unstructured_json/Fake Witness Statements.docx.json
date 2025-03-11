@@ -1,0 +1,542 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "c6c1f9641f5c4089f2056d60f012b50f",
+    "text": "Witness Statement: Jane Smith",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Witness Statement: Jane Smith"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "80c89a7e9f5cee83e5d0505f9b5cddb0",
+    "text": "Name: Jane Smith\nDate: January 23, 2024\nLocation: Sierra County Fairgrounds\nRelationship to Incident: Fair Attendee, witnessed the accident",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Name:",
+        "Date:",
+        "Location:",
+        "Relationship to Incident:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "50e1899850c1a2cc0dea80cf5aad0036",
+    "text": "Statement:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Statement:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8bf079da12930f6bd3ad584a7f99f5d0",
+    "text": "On January 23, 2024, I was at the Sierra County Fair with my family. Around 3:00 PM, we were near the exit of the Tilt-A-Whirl ride when I saw a man trip and fall. He was with two young girls and a couple of other adults. The man, who I later learned was John Doe, tripped over a metal spike that was sticking out of the ground right in the exit path of the ride.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "aaaebae6e0c1b51649d12c84dcbe3721",
+    "text": "When he fell, he immediately cried out in pain and couldn't get up. Several people, including what seemed to be fair staff, rushed over to help him. He was holding his left ankle and looked like he was in a lot of pain. The staff called for medical assistance, and an ambulance arrived shortly after to take him to the hospital.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "661b7aa187851e965669057f739ec749",
+    "text": "It was clear that the spike was a hazard that shouldn't have been there, especially in such a busy area where people were exiting the ride.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c990016e70079460d37df8f3b6c39fee",
+    "text": "Witness Statement: Mark Johnson",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Witness Statement: Mark Johnson"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "853f2a5bf055cf9b2a1ea7e21a3be9c3",
+    "text": "Name: Mark Johnson\nDate: January 23, 2024\nLocation: Sierra County Fairgrounds\nRelationship to Incident: Co-worker of John Doe",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Name:",
+        "Date:",
+        "Location:",
+        "Relationship to Incident:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3be035b719143e7ead7c9deef4e50174",
+    "text": "Statement:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Statement:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a35caeaccfa4f57a0dce11863407954d",
+    "text": "I was at the Sierra County Fair with John Doe and a few other co-workers. We were there to relax and have fun with our families. At around 3:00 PM, we were exiting the Tilt-A-Whirl ride. John was ahead of me with his two daughters. As we were walking out, I saw him suddenly trip and fall hard onto the ground.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "337b7224a47ca060bd7dd815ad4d541d",
+    "text": "When I got closer, I saw that he had tripped over a metal spike that was sticking out of the ground in the exit path. John was in a lot of pain and couldn't move his left ankle. We called for help immediately, and some of the fair staff came over to assist. They called an ambulance, and John was taken to Sierra Vista Medical Center.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f88f6b38cd28ce829485a2d8d219d6cf",
+    "text": "John has been having a tough time since the accident. He can't work and is dealing with a lot of pain from his ankle injury and other issues like back spasms and neck strain. It's been really hard for him and his family.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "afa9466018d408e5075179797f55e57a",
+    "text": "Witness Statement: Emily Brown",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Witness Statement: Emily Brown"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "4f6bfdee58d3ea7928f57a9086403ab4",
+    "text": "Name: Emily Brown\nDate: January 23, 2024\nLocation: Sierra County Fairgrounds\nRelationship to Incident: Fair Staff Member",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Name:",
+        "Date:",
+        "Location:",
+        "Relationship to Incident:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "84f1c8f8b9f463e6973b4638fcedca17",
+    "text": "Statement:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Statement:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8f1e521b1c7116ae5df15a8560c0c024",
+    "text": "I am a staff member at the Sierra County Fair, and on January 23, 2024, I was working near the Tilt-A-Whirl ride. Around 3:00 PM, I saw a man, later identified as John Doe, trip and fall in the exit area of the ride. He was with his two daughters and some other adults.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "edfefacf461924b4efc4e3d049fb6e53",
+    "text": "John tripped over a metal spike that was protruding from the ground. It was quite shocking because the spike was right in the middle of the exit path, which is heavily trafficked. He fell and immediately appeared to be in a lot of pain, holding his left ankle.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "62edf0851d863ef7e867675aba3e8942",
+    "text": "I, along with a couple of other staff members, rushed over to help him. We called for an ambulance right away, and he was taken to Sierra Vista Medical Center. It was a very unfortunate incident, and it was clear that the spike posed a serious hazard to the fairgoers.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Witness Statements.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Witness Statements.docx"
+        },
+        "date_modified": "1719080490.0",
+        "date_processed": "1741677871.1056955",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

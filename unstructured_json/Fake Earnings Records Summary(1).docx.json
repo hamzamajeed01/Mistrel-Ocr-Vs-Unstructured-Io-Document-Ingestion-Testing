@@ -1,0 +1,73 @@
+[
+  {
+    "type": "Title",
+    "element_id": "894e1b1a276f9d52e6790f13c55022f7",
+    "text": "Claimant’s Earnings Summary",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings Records Summary(1).docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings Records Summary(1).docx"
+        },
+        "date_modified": "1721325676.0",
+        "date_processed": "1741677871.0901258",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "a5fa9437a8aadf57c5ff21706c6a2f8a",
+    "text": "Year Source Documents Annual Wages Health Benefits Value Dental Benefits Value Vision Benefits Value Pension Contribution Total Compensation 2023 W-2, Union Benefits Summary $55,000 $3,000 $1,500 $150 $5,000 $64,650 2022 W-2, Union Benefits Summary $53,000 $3,000 $1,500 $150 $5,000 $62,650 2021 W-2, Union Benefits Summary $50,000 $3,000 $1,500 $150 $5,000 $59,650 2020 W-2, Union Benefits Summary $48,000 $3,000 $1,500 $150 $5,000 $57,650 2019 W-2, Union Benefits Summary $47,000 $3,000 $1,500 $150 $5,000 $56,650",
+    "metadata": {
+      "emphasized_text_contents": [
+        "Year",
+        "Source Documents",
+        "Annual Wages",
+        "Health Benefits Value",
+        "Dental Benefits Value",
+        "Vision Benefits Value",
+        "Pension Contribution",
+        "Total Compensation"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "text_as_html": "<table><tr><td>Year</td><td>Source Documents</td><td>Annual Wages</td><td>Health Benefits Value</td><td>Dental Benefits Value</td><td>Vision Benefits Value</td><td>Pension Contribution</td><td>Total Compensation</td></tr><tr><td>2023</td><td>W-2, Union Benefits Summary</td><td>$55,000</td><td>$3,000</td><td>$1,500</td><td>$150</td><td>$5,000</td><td>$64,650</td></tr><tr><td>2022</td><td>W-2, Union Benefits Summary</td><td>$53,000</td><td>$3,000</td><td>$1,500</td><td>$150</td><td>$5,000</td><td>$62,650</td></tr><tr><td>2021</td><td>W-2, Union Benefits Summary</td><td>$50,000</td><td>$3,000</td><td>$1,500</td><td>$150</td><td>$5,000</td><td>$59,650</td></tr><tr><td>2020</td><td>W-2, Union Benefits Summary</td><td>$48,000</td><td>$3,000</td><td>$1,500</td><td>$150</td><td>$5,000</td><td>$57,650</td></tr><tr><td>2019</td><td>W-2, Union Benefits Summary</td><td>$47,000</td><td>$3,000</td><td>$1,500</td><td>$150</td><td>$5,000</td><td>$56,650</td></tr></table>",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Earnings Records Summary(1).docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "894e1b1a276f9d52e6790f13c55022f7",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Earnings Records Summary(1).docx"
+        },
+        "date_modified": "1721325676.0",
+        "date_processed": "1741677871.0901258",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

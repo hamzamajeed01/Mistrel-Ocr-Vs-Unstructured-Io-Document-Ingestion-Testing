@@ -1,0 +1,1142 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "dd7d69cf394fe4badfa456f21250a742",
+    "text": "COMPLAINT FOR DAMAGES",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "COMPLAINT",
+        "FOR DAMAGES"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "e4e649b8bb96fae64f60a10f1a002455",
+    "text": "Plaintiff John Doe alleges as follows:",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fc2e51c84bb166cb94f27ad97ca0b54e",
+    "text": "PARTIES",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "PARTIES"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c18946b977cc01b76a41997006677953",
+    "text": "Plaintiff: John Doe (\"Plaintiff\") is, and at all times relevant herein was, an individual residing in the County of Sierra, State of California.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plaintiff:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3e2dc9e6273df46baa43362b7692e67a",
+    "text": "Defendant Sierra County: Defendant Sierra County (\"Sierra County\") is, and at all times relevant herein was, a governmental entity operating within the State of California.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Defendant Sierra County:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "ad75b82f895ae1c34561998eb4518ea1",
+    "text": "Defendant Fairs Are Us: Defendant Fairs Are Us (\"Fairs Are Us\") is, and at all times relevant herein was, a business entity engaged in the operation and management of fairs and amusement rides, including the Sierra County Fair.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Defendant Fairs Are Us:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b4e91a273e563391f79296e55ddef423",
+    "text": "Defendants DOES 1-10: Plaintiff is ignorant of the true names and capacities of Defendants sued herein as DOES 1 through 10, inclusive, and therefore sues these Defendants by such fictitious names. Plaintiff will amend this Complaint to allege their true names and capacities when ascertained. Plaintiff is informed and believes, and thereon alleges, that each of the fictitiously named Defendants is responsible in some manner for the occurrences herein alleged, and that Plaintiff’s damages as herein alleged were proximately caused by such Defendants.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Defendants DOES 1-10:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f17227a3e2e9696d7c2055ad142c6075",
+    "text": "JURISDICTION AND VENUE",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "JURISDICTION AND VENUE"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b345bbd9b50f5899e55f49b4395f5fcf",
+    "text": "Jurisdiction: This Court has jurisdiction over this matter pursuant to California Code of Civil Procedure § 410.10.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Jurisdiction:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "92bb080db8952cc62ef89ed9d910abf5",
+    "text": "Venue: Venue is proper in this Court pursuant to California Code of Civil Procedure § 395(a) because the injury occurred in Sierra County, California, and Defendants conduct business within this county.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Venue:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6d9c29d56559246446623c1833fe662e",
+    "text": "FACTUAL ALLEGATIONS",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "FACTUAL ALLEGATIONS"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "bf0a6427239198be5efba0be3b2f3726",
+    "text": "On or about January 23, 2024, Plaintiff attended the Sierra County Fair with his two nine-year-old daughters and several co-workers. The fair was operated and managed by Defendants Sierra County and Fairs Are Us.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "53971d286865aea06299553682d6aa4b",
+    "text": "While exiting the Tilt-A-Whirl ride at approximately 3:00 PM, Plaintiff tripped over a metal spike that was protruding from the ground in the exit path of the ride.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "433d8e9f35a948ca8ac4852b178ede94",
+    "text": "As a result of the fall, Plaintiff suffered a broken left ankle, which required immediate surgery, as well as back spasms and neck strain. Plaintiff was transported to Sierra Vista Medical Center for treatment.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5912e14a71c68debcc9f93a67cdc46b5",
+    "text": "Plaintiff has been unable to return to his job as a construction worker due to the severity of his injuries and is uncertain when he will be able to resume work.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d8d236bd979a3495d6ef4b9b4ee776f6",
+    "text": "The spike posed an unreasonable hazard to fairgoers, and Defendants failed to warn of or eliminate this danger despite their duty to maintain safe premises.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e06be5e30ce84e5b8dd5e840e4e97965",
+    "text": "FIRST CAUSE OF ACTION: PREMISES LIABILITY",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "FIRST CAUSE OF ACTION: PREMISES LIABILITY"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a83cb237e5c83eb210bc6e5559b25a7a",
+    "text": "(Against All Defendants)",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4230b58cb36ee7f4a317ae02f06cae80",
+    "text": "Plaintiff re-alleges and incorporates by reference paragraphs 1 through 11 as though fully set forth herein.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4b7d1e652d641d585532736970e3c883",
+    "text": "Defendants owned, leased, occupied, and/or controlled the premises of the Sierra County Fair.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "54f243887bf7de12886cb39ecfd010ef",
+    "text": "Defendants had a duty to maintain the premises in a reasonably safe condition and to warn of any dangerous conditions.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c333f1b2d7335c8b4be6a7093777cb44",
+    "text": "Defendants breached their duty by failing to eliminate the hazard posed by the spike and failing to warn Plaintiff and other fairgoers of the danger.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c0760e53eae8b4f5fd391c094beb1e85",
+    "text": "As a direct and proximate result of Defendants' negligence, Plaintiff sustained serious injuries, resulting in medical expenses, lost wages, loss of earning capacity, and other damages.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "dff62dd0609826a64819aca34f8a9def",
+    "text": "SECOND CAUSE OF ACTION: NEGLIGENCE",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "SECOND CAUSE OF ACTION: NEGLIGENCE"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "1c06ff7c8f888ba23d0d215664c834f4",
+    "text": "(Against All Defendants)",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c171d6ddc9207940d8391dcd3a905b5b",
+    "text": "Plaintiff re-alleges and incorporates by reference paragraphs 1 through 16 as though fully set forth herein.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "42b737d36cb63deb1bbbf55865442a25",
+    "text": "Defendants owed Plaintiff a duty of care to ensure the fairgrounds were safe for visitors.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "de57180a02009d294bbad46058194dd6",
+    "text": "Defendants breached their duty of care by negligently maintaining the premises, allowing a dangerous spike to protrude in the exit path of a ride.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "12c6bca85e84b282ae413c268d9dd629",
+    "text": "As a direct and proximate result of Defendants' negligence, Plaintiff suffered severe injuries, incurred medical expenses, lost wages, and experienced pain and suffering.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "918ed7d14821ca162cece4e3b1f705fd",
+    "text": "PRAYER FOR RELIEF",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "PRAYER FOR RELIEF"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "8dd89beb3e1b2c31220a81411e9a6071",
+    "text": "WHEREFORE, Plaintiff prays for judgment against Defendants as follows:",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "95de80b17a4333fe508f90d6fc7fd0bf",
+    "text": "For general damages in an amount to be proven at trial;",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "90217d096038c8ed96f5e73d6277ba69",
+    "text": "For special damages, including but not limited to medical expenses, lost earnings, and loss of earning capacity, according to proof at trial;",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a4e3adc3bcf950c2d72fbf5384734b38",
+    "text": "For costs of suit incurred herein;",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fbd10a570321bf3148375ddc3b8ae759",
+    "text": "For prejudgment interest as permitted by law; and",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e342902257f208553bf7bb5bbeab804f",
+    "text": "For such other and further relief as the Court may deem just and proper.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "099c3f1da4c8fdb28d08a1e6cc23de36",
+    "text": "DEMAND FOR JURY TRIAL",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "DEMAND FOR JURY TRIAL"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f2ae928610d20e59a1a8d3bb544801fd",
+    "text": "Plaintiff hereby demands a trial by jury on all issues so triable.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "afd502b7418dc406edaa211dc4290e04",
+    "text": "Dated: _______________\nRespectfully submitted,\n[Plaintiff’s Attorney’s Name]\n[Law Firm Name]",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "[Plaintiff’s Attorney’s Name]",
+        "[Law Firm Name]"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "53be677ee3ac0011d1c528a7023a20fd",
+    "text": "By: ______________________\n[Plaintiff’s Attorney’s Name]\nAttorneys for Plaintiff John Doe",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "[Plaintiff’s Attorney’s Name]"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Complaint.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Complaint.docx"
+        },
+        "date_modified": "1719080662.0",
+        "date_processed": "1741677871.0800269",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

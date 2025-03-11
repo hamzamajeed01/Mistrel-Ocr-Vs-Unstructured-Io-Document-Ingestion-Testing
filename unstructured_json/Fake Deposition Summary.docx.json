@@ -1,0 +1,120 @@
+[
+  {
+    "type": "UncategorizedText",
+    "element_id": "666a2d987b446f7a41a34fdc92de03c8",
+    "text": "John Smith Deposition Summary",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "John Smith Deposition Summary"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Deposition Summary.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Deposition Summary.docx"
+        },
+        "date_modified": "1721255398.0",
+        "date_processed": "1741677871.0819426",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "16e0d4bd7b07931ae5e418bb86aef8f3",
+    "text": "Counsel for Plaintiff: Jane Doe\nCounsel for Defendant: John Doe",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Deposition Summary.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Deposition Summary.docx"
+        },
+        "date_modified": "1721255398.0",
+        "date_processed": "1741677871.0819426",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "10f5a4eb2649c88b9e66efa2ecdb784a",
+    "text": "\nDate of Testimony: 03/15/2024",
+    "metadata": {
+      "category_depth": 0,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Deposition Summary.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Deposition Summary.docx"
+        },
+        "date_modified": "1721255398.0",
+        "date_processed": "1741677871.0819426",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "Table",
+    "element_id": "bd1198f592b4f30a120f136e834504a1",
+    "text": "Page/Line Examiner Summary of Testimony Relevance 3/12-15 Jane Doe Plaintiff is a 47-year-old construction worker with 25 years of experience. Background of witness 5/20-25 Jane Doe Plaintiff had no prior ankle problems before the accident. Background of witness 7/8-12 Jane Doe Plaintiff describes climbing a ladder to get tools when the ladder slipped and he fell. Cause and circumstances of incident 9/15-20 Jane Doe Plaintiff believes the ladder slipped because it was not secured at the top. Cause and circumstances of incident 11/2-5 Jane Doe Plaintiff admits he did not inspect the ladder before climbing it, assuming it was safe. Perceptions of fault; potential for contributory negligence 12/18-22 John Doe Plaintiff broke his left ankle in three places as a result of the fall. Damages 15/6-10 Jane Doe Plaintiff is still undergoing physical therapy and has not been able to return to work since the accident. Damages 16/24-28 Jane Doe Plaintiff is in constant pain and unable to perform daily activities as he used to. Damages 18/11-15 Jane Doe Plaintiff admits to doing light work on a side job while on disability. Credibility; potential impact on damages 20/5-8 John Doe Plaintiff acknowledges a discrepancy between his earlier statement and the incident report regarding ladder inspection, admitting he was mistaken in his testimony. Credibility; potential impact on perceptions of fault 25/19-23 John Doe Plaintiff's doctor expects a full recovery but notes it will take time. Prognosis 30/12-16 Jane Doe Plaintiff is hopeful for no long-term complications but acknowledges the possibility of risks. Prognosis",
+    "metadata": {
+      "emphasized_text_contents": [
+        "Page/Line",
+        "Examiner",
+        "Summary of Testimony",
+        "Relevance"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "text_as_html": "<table><tr><td>Page/Line</td><td>Examiner</td><td>Summary of Testimony</td><td>Relevance</td></tr><tr><td>3/12-15</td><td>Jane Doe</td><td>Plaintiff is a 47-year-old construction worker with 25 years of experience.</td><td>Background of witness</td></tr><tr><td>5/20-25</td><td>Jane Doe</td><td>Plaintiff had no prior ankle problems before the accident.</td><td>Background of witness</td></tr><tr><td>7/8-12</td><td>Jane Doe</td><td>Plaintiff describes climbing a ladder to get tools when the ladder slipped and he fell.</td><td>Cause and circumstances of incident</td></tr><tr><td>9/15-20</td><td>Jane Doe</td><td>Plaintiff believes the ladder slipped because it was not secured at the top.</td><td>Cause and circumstances of incident</td></tr><tr><td>11/2-5</td><td>Jane Doe</td><td>Plaintiff admits he did not inspect the ladder before climbing it, assuming it was safe.</td><td>Perceptions of fault; potential for contributory negligence</td></tr><tr><td>12/18-22</td><td>John Doe</td><td>Plaintiff broke his left ankle in three places as a result of the fall.</td><td>Damages</td></tr><tr><td>15/6-10</td><td>Jane Doe</td><td>Plaintiff is still undergoing physical therapy and has not been able to return to work since the accident.</td><td>Damages</td></tr><tr><td>16/24-28</td><td>Jane Doe</td><td>Plaintiff is in constant pain and unable to perform daily activities as he used to.</td><td>Damages</td></tr><tr><td>18/11-15</td><td>Jane Doe</td><td>Plaintiff admits to doing light work on a side job while on disability.</td><td>Credibility; potential impact on damages</td></tr><tr><td>20/5-8</td><td>John Doe</td><td>Plaintiff acknowledges a discrepancy between his earlier statement and the incident report regarding ladder inspection, admitting he was mistaken in his testimony.</td><td>Credibility; potential impact on perceptions of fault</td></tr><tr><td>25/19-23</td><td>John Doe</td><td>Plaintiff&#x27;s doctor expects a full recovery but notes it will take time.</td><td>Prognosis</td></tr><tr><td>30/12-16</td><td>Jane Doe</td><td>Plaintiff is hopeful for no long-term complications but acknowledges the possibility of risks.</td><td>Prognosis</td></tr></table>",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Deposition Summary.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Deposition Summary.docx"
+        },
+        "date_modified": "1721255398.0",
+        "date_processed": "1741677871.0819426",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+    "filename": "NIPS-2017-attention-is-all-you-need-Paper.pdf",
+    "file_type": "PDF",
+    "file_size": "556.07 KB",
+    "processing_time": "3.80 seconds",
+    "pages": 11,
+    "total_images": 2,
+    "json_path": "mistral_output/json/NIPS-2017-attention-is-all-you-need-Paper/ocr_response.json",
+    "markdown_path": "mistral_output/markdown/NIPS-2017-attention-is-all-you-need-Paper/NIPS-2017-attention-is-all-you-need-Paper.md",
+    "images_dir": "mistral_output/images/NIPS-2017-attention-is-all-you-need-Paper"
+}

@@ -1,0 +1,2388 @@
+[
+  {
+    "type": "Header",
+    "element_id": "06e23e994d60b3440e47a53da32587d1",
+    "text": "Sierra Vista Medical Center",
+    "metadata": {
+      "category_depth": 0,
+      "header_footer_type": "primary",
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "da328260e34973fa0e55059b33926f96",
+    "text": "Patient Information",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Patient Information"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "79453dddc3a70b431969234211cfe3a6",
+    "text": "Name: John Doe\nDOB: 07/15/1980\nAge: 43\nGender: Male\nEthnicity: Caucasian\nHeight: 6'0\"\nWeight: 227 lbs\nOccupation: Construction Worker",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Name:",
+        "DOB:",
+        "Age:",
+        "Gender:",
+        "Ethnicity:",
+        "Height:",
+        "Weight:",
+        "Occupation:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "bcefcdb7f64d70c7ac8af38bb940e47b",
+    "text": "Initial Visit - Emergency Department",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Initial Visit - Emergency Department"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a8e5b0b218c9672b31d7ce7172e91c4f",
+    "text": "Date: 05/01/2023\nPhysician: Pedro Velez, MD\nNurse Practitioner: Mary Martin, NP",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Date:",
+        "Physician:",
+        "Nurse Practitioner:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "b359641ebcfe1bc42bbec4e84ef152cd",
+    "text": "Chief Complaint:\nPatient presents with severe pain, swelling, and inability to bear weight on the left ankle following a fall at a construction site.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Chief Complaint:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "a7775098029ef9ee9b4a7d48bdf92c04",
+    "text": "History of Present Illness:\nThe patient reports falling off a ladder approximately 10 feet. Immediate pain and swelling were noted in the left ankle.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "History of Present Illness:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ed3732f2e18dc8e3e5c5205baff70996",
+    "text": "Physical Examination:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Physical Examination:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5ee2260aef49eca8b2bcb17c11d54579",
+    "text": "Vital Signs: BP: 130/85, HR: 82 bpm, RR: 18, Temp: 98.6°F",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Vital Signs:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "0fabc5ca4477e9644c11f0fb9d09b2e1",
+    "text": "Inspection: Significant swelling and bruising around the left ankle.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Inspection:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "178188c5b1301291c79bcd12d5735d6b",
+    "text": "Palpation: Tenderness over the lateral malleolus, crepitus felt.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Palpation:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "83d37282783f98e6a76b25fdc1a492d6",
+    "text": "Range of Motion: Severely limited due to pain.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Range of Motion:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5d430ed6b873740974706ffa37802a69",
+    "text": "Neurological: Sensation intact distally.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Neurological:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c8dc1f687dd7f7d1386df2ab49a91af9",
+    "text": "Circulatory: Pulses present and strong.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Circulatory:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "32e6f60f3665345558f8372a89b527fb",
+    "text": "Imaging:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Imaging:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5ac36f4632a4ec75359574ac29e096ba",
+    "text": "X-ray: Comminuted fracture of the distal fibula with displacement.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "X-ray:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c96bae2c45626aac082be1af428e835d",
+    "text": "Assessment:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Assessment:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e9f73f23bbcd52ae15b9023fd9a9fd46",
+    "text": "Comminuted fracture of the distal fibula (left ankle).",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "811b1813d3dc154dcb10f7a161fc39fb",
+    "text": "Plan:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plan:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3b2ea829fc1f964dc501ef1c607e696b",
+    "text": "Reduction and immobilization in a posterior splint.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 1,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "cb33eae9e062a37e5dbf959e2732c426",
+    "text": "Pain management: Prescribed hydrocodone/acetaminophen 5/325 mg, 1-2 tablets every 6 hours as needed.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "609024f835a85080d38579c52b74c9e3",
+    "text": "Referral to orthopedic surgery for operative intervention.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "fa838dee7290e0360fdab6ffa532af1a",
+    "text": "Operative Report",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Operative Report"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a8e43aee767ac2c3a49c949e0c815864",
+    "text": "Date: 05/02/2023\nSurgeon: Pedro Velez, MD",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Date:",
+        "Surgeon:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c9b0b2bbc0a2f1bcdd4b9d00aeedf1d7",
+    "text": "Preoperative Diagnosis:\nComminuted fracture of the distal fibula (left ankle).",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Preoperative Diagnosis:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "069d9243ea247516a35c7c52cad5ae14",
+    "text": "Postoperative Diagnosis:\nSame.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Postoperative Diagnosis:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6d237186b3c1d4a5293cc9030ff4c3e4",
+    "text": "Procedure:\nOpen reduction and internal fixation (ORIF) of the left distal fibula.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Procedure:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c74d1d11d5551d807ebd959b9f7f7248",
+    "text": "Anesthesia:\nGeneral anesthesia.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Anesthesia:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "c306cfe1573869540353c276b8402d30",
+    "text": "Findings:\nThe fracture was comminuted and displaced. Successful reduction and stabilization achieved with plate and screws.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Findings:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "f8aa0c1c5112a02b96134c945c11ac18",
+    "text": "Complications:\nNone.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Complications:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7fedd035d33060fc994c5ed96b3cf098",
+    "text": "Discharge Plan:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Discharge Plan:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "02e9074091e392ffd95eada8f3484bd9",
+    "text": "Weight-bearing: Non-weight-bearing on the left leg.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "79c71e0844645f8e80be39f558100b11",
+    "text": "DVT prophylaxis: Prescribed enoxaparin 40 mg subcutaneously daily.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "66dfc953473489003cc0857203271634",
+    "text": "Follow-up appointment in 1 week.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9d371f5c7d8e6fb048206916069aa09a",
+    "text": "Follow-Up Visit 1",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Follow-Up Visit 1"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "9b4d1da31f632e5ac75c89aeecccf97c",
+    "text": "Date: 05/09/2023\nPhysician: Pedro Velez, MD\nNurse Practitioner: Mary Martin, NP",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Date:",
+        "Physician:",
+        "Nurse Practitioner:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "10ca00dda088d68cf8ab0ff7d13688cd",
+    "text": "Subjective:\nPatient reports significant pain improvement, slight swelling persists.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Subjective:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "c03d4a7f7b20a9d2f1b7a8f560af7512",
+    "text": "Objective:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Objective:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "a79a2eb02417b248b997f7c53e967907",
+    "text": "Inspection: Incision site clean, dry, and intact.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Inspection:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 2,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "129ea31cbbccf1537440012ca04a956c",
+    "text": "Palpation: Mild tenderness.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Palpation:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "3aae0cd69af21f2f8399943df9e9f01a",
+    "text": "Range of Motion: Limited but improving.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Range of Motion:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "e64d43679a3751c5f7f6303d94de5da1",
+    "text": "Assessment:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Assessment:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e03216f2477158b92bf146199337a37d",
+    "text": "Post-operative status is stable with no signs of infection.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "3c8ed40aa8684d7142c560048cecbcb4",
+    "text": "Plan:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plan:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1064c86f3e21e566d4df105de10f02e6",
+    "text": "Continue pain management as needed.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4d4df511426ff863cb1a85790fe9f587",
+    "text": "Initiate physical therapy for range of motion exercises.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1eab6fe6e91f561391776c6b114e5f18",
+    "text": "Follow-up in 4 weeks.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7fee32d01d3d32a1bbae59fcaf321b0e",
+    "text": "Follow-Up Visit 2",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Follow-Up Visit 2"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "6bdc5e6f5b15cfca53b534298a625993",
+    "text": "Date: 06/06/2023\nPhysician: Pedro Velez, MD\nNurse Practitioner: Mary Martin, NP",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Date:",
+        "Physician:",
+        "Nurse Practitioner:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "NarrativeText",
+    "element_id": "f3aa262ac426373f1a21e4f684a6e392",
+    "text": "Subjective:\nPatient reports increased mobility and decreased pain.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Subjective:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "8bc5c76a9e4efe236a61e5b60c4d4390",
+    "text": "Objective:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Objective:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d95425de36f9f0b52d5dd8d44797a530",
+    "text": "Inspection: Incision healed.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Inspection:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "4277e24ad997b6d6c61253ac658d7f57",
+    "text": "Palpation: No tenderness.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Palpation:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "1e7e9a9edab8776d9e196f423e2de311",
+    "text": "Range of Motion: Improved significantly.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Range of Motion:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "63eee78238c37c1f234386f6f3269079",
+    "text": "Strength: 4/5 in left ankle.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Strength:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "49db8fde8b029648f01232cbff263c95",
+    "text": "Assessment:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Assessment:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "fcbfc255fdaf6ddaa02e7300ef39eb1e",
+    "text": "Healing progressing well.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "019c6a283d2ab94a56d088616140cd1a",
+    "text": "Plan:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plan:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c5b183225e8b04c88dcb46cbd33918cf",
+    "text": "Transition to weight-bearing as tolerated.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "c2e9381957e899c4303bb4304f87ba08",
+    "text": "Continue physical therapy.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "989d2f53d08f168431b134d9c2fd3271",
+    "text": "Follow-up in 6 weeks for evaluation and potential removal of hardware.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "254edf205a7fd335957c070df0087cbd",
+    "text": "Final Follow-Up Visit",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Final Follow-Up Visit"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "7f64a802e42d7b7eee0b10b640fcc6cf",
+    "text": "Date: 08/15/2023\nPhysician: Pedro Velez, MD\nNurse Practitioner: Mary Martin, NP",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Date:",
+        "Physician:",
+        "Nurse Practitioner:"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b"
+      ],
+      "page_number": 3,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "ad39942335738063aeb5cf562cf71772",
+    "text": "Subjective:\nPatient reports full return to normal activities with minimal discomfort.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Subjective:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "303db44b1546cf76340da4cece51e1e1",
+    "text": "Objective:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Objective:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "b2c902155982abcb0d198de6cea46580",
+    "text": "Inspection: No swelling or erythema.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Inspection:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "68c9fd47ecf34ec0c7adaeaf6adf4792",
+    "text": "Palpation: No tenderness.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Palpation:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5b544c880a202ba6374e959fc3443918",
+    "text": "Range of Motion: Full range of motion achieved.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Range of Motion:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "d43546f42b0a7e8add947ad3ce88a2ac",
+    "text": "Strength: 5/5 in left ankle.",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Strength:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "a034036547131d042405a8c9c2a5a442",
+    "text": "Assessment:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Assessment:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5a7df8216d3f18611dadaea690331108",
+    "text": "Fully healed with no complications.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "UncategorizedText",
+    "element_id": "d65e874d2113cd72cdf2aea30124db5d",
+    "text": "Plan:",
+    "metadata": {
+      "category_depth": 0,
+      "emphasized_text_contents": [
+        "Plan:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "85800e10418cc264e18b86c73926fb13",
+    "text": "Discharge from regular follow-up.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "e41fbdd02a08f5768a9037393ea7f682",
+    "text": "Advise patient on gradual return to full activity.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  },
+  {
+    "type": "ListItem",
+    "element_id": "5932b8056b4cead6da330488c9204cc3",
+    "text": "Schedule hardware removal if symptomatic in the future.",
+    "metadata": {
+      "category_depth": 0,
+      "page_number": 4,
+      "languages": [
+        "eng"
+      ],
+      "filename": "Fake Medical Records.docx",
+      "filetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "parent_id": "06e23e994d60b3440e47a53da32587d1",
+      "data_source": {
+        "record_locator": {
+          "path": "/home/hamzamajeed/O/Mistrel Ocr Testing/Data/Fake Medical Records.docx"
+        },
+        "date_modified": "1721325022.0",
+        "date_processed": "1741677871.0949118",
+        "permissions_data": [
+          {
+            "mode": 33204
+          }
+        ]
+      }
+    }
+  }
+]
