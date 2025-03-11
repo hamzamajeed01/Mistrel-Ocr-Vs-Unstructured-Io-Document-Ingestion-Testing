@@ -1,4 +1,4 @@
-# Mistral OCR Document Ingestion Pipeline
+# Mistral OCR Document Ingestion Pipeline(right now API handles only pdf ,images not docx)
 
 This project provides a document ingestion pipeline using Mistral's OCR capabilities to process PDF and DOCX files, extract text and images, and save the results in structured formats.
 
