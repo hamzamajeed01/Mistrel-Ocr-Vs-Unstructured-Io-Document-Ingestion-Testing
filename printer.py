@@ -51,9 +51,17 @@ def get_available_documents():
     
     # Check for Mistral documents
     if MISTRAL_JSON_DIR.exists():
-        for dir_path in MISTRAL_JSON_DIR.iterdir():
-            if dir_path.is_dir():
-                mistral_docs.append(dir_path.name)
+        # Look for JSON files directly in the directory or its subdirectories
+        for file_path in MISTRAL_JSON_DIR.glob("**/*.json"):
+            # Get the parent directory name if it's in a subdirectory
+            if file_path.parent.name != MISTRAL_JSON_DIR.name:
+                mistral_docs.append(file_path.parent.name)
+            else:
+                # If JSON is directly in the main directory, use the filename without extension
+                mistral_docs.append(file_path.stem)
+    
+    # Remove duplicates
+    mistral_docs = list(set(mistral_docs))
     
     return {
         "unstructured": unstructured_docs,
@@ -65,43 +73,20 @@ def display_document_list(documents):
     """Display a list of available documents"""
     print_header("AVAILABLE DOCUMENTS")
     
-    # Create tables for each category
-    unstructured_table = []
-    mistral_table = []
-    both_table = []
+    # Create a single combined table
+    combined_table = []
     
-    for i, doc in enumerate(sorted(documents["unstructured"]), 1):
-        if doc in documents["both"]:
-            both_table.append([i, doc, "✓", "✓"])
-        else:
-            unstructured_table.append([i, doc, "✓", ""])
+    # Add documents from both pipelines
+    for doc in sorted(set(documents["unstructured"] + documents["mistral"])):
+        in_unstructured = "✓" if doc in documents["unstructured"] else ""
+        in_mistral = "✓" if doc in documents["mistral"] else ""
+        combined_table.append([len(combined_table) + 1, doc, in_unstructured, in_mistral])
     
-    for i, doc in enumerate(sorted(documents["mistral"]), 1):
-        if doc not in documents["both"]:
-            mistral_table.append([i, doc, "", "✓"])
+    # Display the combined table
+    print(tabulate(combined_table, headers=["#", "Document Name", "Unstructured", "Mistral"], tablefmt="pretty"))
     
-    # Display documents available in both pipelines
-    if both_table:
-        print_section("Documents available in both pipelines")
-        print(tabulate(both_table, headers=["#", "Document Name", "Unstructured", "Mistral"], tablefmt="pretty"))
-    
-    # Display documents only in Unstructured.io
-    if unstructured_table:
-        print_section("Documents only in Unstructured.io")
-        print(tabulate(unstructured_table, headers=["#", "Document Name", "Unstructured", "Mistral"], tablefmt="pretty"))
-    
-    # Display documents only in Mistral
-    if mistral_table:
-        print_section("Documents only in Mistral OCR")
-        print(tabulate(mistral_table, headers=["#", "Document Name", "Unstructured", "Mistral"], tablefmt="pretty"))
-    
-    # Combine all tables for selection
-    all_docs = []
-    all_docs.extend(both_table)
-    all_docs.extend(unstructured_table)
-    all_docs.extend(mistral_table)
-    
-    return sorted([doc[1] for doc in all_docs])  # Return just the document names
+    # Return just the document names
+    return [doc[1] for doc in combined_table]
 
 def read_unstructured_json(doc_name):
     """Read and parse Unstructured.io JSON data"""
@@ -122,24 +107,39 @@ def read_mistral_json(doc_name):
     """Read and parse Mistral OCR JSON data"""
     json_dir = MISTRAL_JSON_DIR / doc_name
     
-    if not json_dir.exists():
-        return None
+    # First try looking in a subdirectory with the document name
+    if json_dir.exists():
+        try:
+            # Read OCR response
+            ocr_json_path = json_dir / "ocr_response.json"
+            if ocr_json_path.exists():
+                with open(ocr_json_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                # Read summary
+                summary_path = json_dir / "summary.json"
+                if summary_path.exists():
+                    with open(summary_path, 'r', encoding='utf-8') as f:
+                        summary = json.load(f)
+                else:
+                    summary = {}
+                
+                return {"ocr_data": data, "summary": summary}
+        except Exception as e:
+            print(f"{Fore.RED}Error reading Mistral JSON from directory: {str(e)}{Style.RESET_ALL}")
     
+    # If not found in subdirectory, try looking for files directly in the main directory
     try:
-        # Read OCR response
-        ocr_json_path = json_dir / "ocr_response.json"
-        with open(ocr_json_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        
-        # Read summary
-        summary_path = json_dir / "summary.json"
-        with open(summary_path, 'r', encoding='utf-8') as f:
-            summary = json.load(f)
-        
-        return {"ocr_data": data, "summary": summary}
+        # Look for files with the document name in the filename
+        ocr_files = list(MISTRAL_JSON_DIR.glob(f"{doc_name}*.json"))
+        if ocr_files:
+            with open(ocr_files[0], 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            return {"ocr_data": data, "summary": {}}
     except Exception as e:
-        print(f"{Fore.RED}Error reading Mistral JSON: {str(e)}{Style.RESET_ALL}")
-        return None
+        print(f"{Fore.RED}Error reading Mistral JSON from main directory: {str(e)}{Style.RESET_ALL}")
+    
+    return None
 
 def read_mistral_markdown(doc_name):
     """Read Mistral OCR markdown data"""
@@ -178,15 +178,13 @@ def display_unstructured_data(data):
     
     print_section("UNSTRUCTURED.IO EXTRACTED CONTENT", Fore.GREEN)
     
-    # Extract and display text from elements
-    for i, element in enumerate(data, 1):
-        element_type = element.get("type", "Unknown")
-        text = element.get("text", "")
-        
-        if text:
-            print(f"{Fore.GREEN}[Element {i} - {element_type}]{Style.RESET_ALL}")
-            print(f"{text}\n")
-            print(f"{Fore.BLUE}{'-' * 50}{Style.RESET_ALL}")
+    # Extract and display just the text content
+    full_text = ""
+    for element in data:
+        if "text" in element and element["text"]:
+            full_text += element["text"].strip() + "\n\n"
+    
+    print(f"{Fore.WHITE}{full_text}{Style.RESET_ALL}")
 
 def display_mistral_data(json_data, markdown_content, images):
     """Display Mistral OCR data in a readable format"""
@@ -207,6 +205,49 @@ def display_mistral_data(json_data, markdown_content, images):
                 summary_table.append([key.replace("_", " ").title(), value])
         
         print(tabulate(summary_table, tablefmt="pretty"))
+    
+    # Display OCR JSON data
+    if json_data and "ocr_data" in json_data:
+        print_section("OCR JSON Content", Fore.CYAN)
+        ocr_data = json_data["ocr_data"]
+        
+        # Try to extract and display text content based on common JSON structures
+        text_found = False
+        
+        # Check for direct text field
+        if isinstance(ocr_data, dict) and "text" in ocr_data:
+            print(f"{Fore.WHITE}{ocr_data['text']}{Style.RESET_ALL}")
+            text_found = True
+        
+        # Check for pages array with text
+        elif isinstance(ocr_data, dict) and "pages" in ocr_data and isinstance(ocr_data["pages"], list):
+            for i, page in enumerate(ocr_data["pages"], 1):
+                if isinstance(page, dict) and "text" in page:
+                    print(f"{Fore.YELLOW}[Page {i}]{Style.RESET_ALL}")
+                    print(f"{Fore.WHITE}{page['text']}{Style.RESET_ALL}")
+                    print(f"{Fore.BLUE}{'-' * 50}{Style.RESET_ALL}")
+                    text_found = True
+        
+        # Check for document with blocks/paragraphs
+        elif isinstance(ocr_data, dict) and "document" in ocr_data:
+            doc = ocr_data["document"]
+            if isinstance(doc, dict) and "blocks" in doc:
+                for i, block in enumerate(doc["blocks"], 1):
+                    if isinstance(block, dict) and "text" in block:
+                        print(f"{Fore.YELLOW}[Block {i}]{Style.RESET_ALL}")
+                        print(f"{Fore.WHITE}{block['text']}{Style.RESET_ALL}")
+                        print(f"{Fore.BLUE}{'-' * 50}{Style.RESET_ALL}")
+                        text_found = True
+        
+        # If no structured text was found, print the raw JSON
+        if not text_found:
+            print(f"{Fore.YELLOW}Full JSON Content:{Style.RESET_ALL}")
+            try:
+                formatted_json = json.dumps(ocr_data, indent=2)
+                print(f"{Fore.WHITE}{formatted_json}{Style.RESET_ALL}")
+            except Exception as e:
+                print(f"{Fore.RED}Error formatting JSON: {str(e)}{Style.RESET_ALL}")
+                print(f"{Fore.WHITE}{str(ocr_data)}{Style.RESET_ALL}")
     
     # Display extracted text from markdown
     if markdown_content:
