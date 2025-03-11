@@ -3,7 +3,7 @@
 This project provides two document ingestion pipelines for processing PDF and DOCX files:
 
 1. **Unstructured.io Pipeline**: Uses Unstructured.io's API to extract structured content from documents
-2. **Mistral OCR Pipeline**: Uses Mistral's OCR capabilities to extract text and images from documents(riht now mistral does not hanlde docx files)
+2. **Mistral OCR Pipeline**: Uses Mistral's OCR capabilities to extract text and images from documents(right now mistral does not hanlde docx files)
 
 It also includes a document viewer to help you browse and view the processed data.
 
