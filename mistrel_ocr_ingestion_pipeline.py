@@ -28,7 +28,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Path configuration
-INPUT_DIR = Path("Data")                  # Folder where the user places the PDFs/DOCX to be processed
+INPUT_DIR = Path("New_Data")                  # Folder where the user places the PDFs/DOCX to be processed
 OUTPUT_ROOT_DIR = Path("mistral_output")  # Root folder for conversion results
 JSON_OUTPUT_DIR = OUTPUT_ROOT_DIR / "json"  # Folder for JSON output
 MARKDOWN_OUTPUT_DIR = OUTPUT_ROOT_DIR / "markdown"  # Folder for Markdown output
