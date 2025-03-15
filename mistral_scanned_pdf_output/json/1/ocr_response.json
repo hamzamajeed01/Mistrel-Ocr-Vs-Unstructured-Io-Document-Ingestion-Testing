@@ -1,0 +1,49 @@
+{
+    "pages": [
+        {
+            "index": 0,
+            "markdown": "DEPOSITION OF JOHN DOE SUPERIOR COURT OF CALIFORNIA FOR THE COUNTY OF SIERRA\n\nTaken March 15, 2024\nRecorded by Certified Court Reporters\nJane Green, Certification No. 238876543\nDoe v. Sierra County and Fairs Are Us\nSierra County Superior Court Action No. 24-SUP-659480",
+            "images": [],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2339,
+                "width": 1653
+            }
+        },
+        {
+            "index": 1,
+            "markdown": "# Present: \n\nPlaintiff's Counsel: Jane Smith, Esq.\nDefendants' Counsel: Robert Brown, Esq.\nOn the Record: 8:35am\nCourt Reporter: Please raise your right hand. Do you swear or affirm to tell the truth, the whole truth, and nothing but the truth?\n\nJohn Doe: I do.\nCourt Reporter: Please state your name for the record.\nJohn Doe: John Doe.\nDefendants' Counsel: Good morning, Mr. Doe. My name is Robert Brown, and I represent Sierra County and Fairs Are Us in this matter. Could you please state your full name and address for the record?\n\nJohn Doe: Sure. My name is John Doe, and I live at 123 Elm Street, Anytown, USA.\nDefendants' Counsel: Thank you. Mr. Doe, could you please describe your occupation?\nJohn Doe: I'm a construction worker.\nDefendants' Counsel: And how long have you been working in that field?\nJohn Doe: For about 20 years now.\nDefendants' Counsel: Let's talk about the incident on January 23, 2024. Can you describe what happened that day?\n\nJohn Doe: Yes. I was at the Sierra County Fair with my two daughters, who are nine years old, and a couple of my co-workers. We were leaving the Tilt-A-Whirl ride when I tripped over a spike that was sticking out of the ground in the exit path.\n\nDefendants' Counsel: What time did this incident occur?\nJohn Doe: It was around 3:00 PM.\nDefendants' Counsel: Can you describe the spike you tripped over?\nJohn Doe: It was a metal spike, maybe about four inches high, sticking out of the ground. It was right in the path where people were exiting the ride.",
+            "images": [],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2339,
+                "width": 1653
+            }
+        },
+        {
+            "index": 2,
+            "markdown": "Defendants' Counsel: What happened immediately after you tripped?\nJohn Doe: I fell and landed awkwardly on my left ankle. I felt a sharp pain and couldn't stand up. I also felt pain in my back and neck.\n\nDefendants' Counsel: Did anyone come to assist you?\nJohn Doe: Yes, my co-workers and a fair staff member came over. They called for medical help, and I was taken to Sierra Vista Medical Center.\n\nDefendants' Counsel: What kind of treatment did you receive at the medical center?\nJohn Doe: They did some X-rays and found that I had a broken left ankle. I needed immediate surgery. They also noted that I had back spasms and a neck strain.\n\nDefendants' Counsel: How long were you in the hospital?\nJohn Doe: I was there for three days.\nDefendants' Counsel: Are you currently receiving any treatment?\nJohn Doe: Yes, I'm undergoing physical therapy for my ankle, and I'm also seeing a chiropractor for my back and neck.\n\nDefendants' Counsel: How has this injury affected your ability to work?\nJohn Doe: I can't return to my job as a construction worker. My doctor hasn't given me a timeline for when I might be able to go back to work.\n\nDefendants' Counsel: Are you seeking compensation for lost wages?\nJohn Doe: Yes, I am. I'm also seeking compensation for general damages, loss of household services, and other related expenses.\n\nDefendants' Counsel: Mr. Doe, have you experienced any other impacts on your daily life due to this injury?\n\nJohn Doe: Yes, I can't do many of the household chores I used to do, and I can't play with my daughters the way I used to. It's been very difficult.\n\nDefendants' Counsel: Thank you, Mr. Doe. I need to ask you about your activities at the fair. Did you consume any alcohol that day?\n\nJohn Doe: Yes, I did. I had four beers.\nDefendants' Counsel: Over what period of time did you consume these beers?",
+            "images": [],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2339,
+                "width": 1653
+            }
+        },
+        {
+            "index": 3,
+            "markdown": "John Doe: Over the course of about two hours.\nDefendants' Counsel: Do you believe the alcohol affected your ability to safely navigate the fairgrounds?\n\nJohn Doe: No, I felt fine and in control.\nDefendants' Counsel: Did you notice the spike or any other unsafe conditions before you tripped?\n\nJohn Doe: No, I didn't see the spike until I tripped over it. I wasn't looking for hazards specifically, but I didn't notice anything out of the ordinary before the accident.\n\nDefendants' Counsel: Did you use the Tilt-A-Whirl ride before the incident?\nJohn Doe: Yes, I went on the ride with my daughters.\nDefendants' Counsel: Did you notice the spike or any other unsafe conditions while using the Tilt-A-Whirl or in the exit path before you tripped?\n\nJohn Doe: No, I did not notice anything unusual when we got off the ride. It wasn't until I tripped that I saw the spike.\n\nDefendants' Counsel: Thank you, Mr. Doe. I have no further questions at this time.\nPlaintiff's Counsel: I have a few questions, Mr. Doe. Can you describe the condition of the fairgrounds on the day of the incident?\n\nJohn Doe: The fairgrounds were crowded, and there were a lot of people around. The exit path from the ride was pretty narrow, and I didn't see the spike until it was too late.\n\nPlaintiff's Counsel: Had you noticed any other hazards at the fair that day?\nJohn Doe: No, I didn't notice anything else out of the ordinary.\nPlaintiff's Counsel: Thank you, Mr. Doe. That's all I have.\nCourt Reporter: The deposition is concluded at 11:00 AM.",
+            "images": [],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2339,
+                "width": 1653
+            }
+        }
+    ],
+    "model": "mistral-ocr-2503-completion",
+    "usage_info": {
+        "pages_processed": 4,
+        "doc_size_bytes": 1522377
+    }
+}

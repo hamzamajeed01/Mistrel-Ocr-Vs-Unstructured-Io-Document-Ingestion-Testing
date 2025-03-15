@@ -4,9 +4,9 @@ from pathlib import Path
 from unstructured.partition.pdf import partition_pdf
 
 # Configure paths
-INPUT_DIR = Path("New_Data")
-JSON_OUTPUT_DIR = Path("new_pipelines_jsons")
-IMAGES_OUTPUT_DIR = Path("new_un_images_pipeline")
+INPUT_DIR = Path("scanned_pdf_data")
+JSON_OUTPUT_DIR = Path("unstructured_scanned_pdf_jsons")
+IMAGES_OUTPUT_DIR = Path("unstructured_scanned_pdf_images")
 
 # Create necessary directories if they don't exist
 def setup_directories():

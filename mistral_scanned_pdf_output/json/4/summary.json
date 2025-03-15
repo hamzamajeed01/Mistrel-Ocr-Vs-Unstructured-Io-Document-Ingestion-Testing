@@ -1,0 +1,11 @@
+{
+    "filename": "4.pdf",
+    "file_type": "PDF",
+    "file_size": "1.62 MB",
+    "processing_time": "2.76 seconds",
+    "pages": 3,
+    "total_images": 2,
+    "json_path": "mistral_scanned_pdf_output/json/4/ocr_response.json",
+    "markdown_path": "mistral_scanned_pdf_output/markdown/4/4.md",
+    "images_dir": "mistral_scanned_pdf_output/images/4"
+}

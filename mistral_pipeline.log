@@ -424,3 +424,572 @@
 2025-03-11 13:00:39,224 - __main__ - INFO - PDF files: 6/6 successful
 2025-03-11 13:00:39,225 - __main__ - INFO - DOCX files: 0/19 successful
 2025-03-11 13:00:39,225 - __main__ - INFO - Document processing completed
+2025-03-13 14:34:56,792 - __main__ - INFO - Initialized Mistral client with API key: riyY...
+2025-03-13 14:34:56,793 - __main__ - INFO - Directories set up successfully
+2025-03-13 14:34:56,794 - __main__ - INFO - Found 25 files to process: 6 PDFs, 19 DOCX/DOC
+2025-03-13 14:34:56,794 - __main__ - INFO - Starting document processing
+2025-03-13 14:34:56,795 - __main__ - INFO - Processing 6 PDF files
+2025-03-13 14:34:56,795 - __main__ - INFO - Processing 22Vol100No3.pdf (1.10 MB)...
+2025-03-13 14:34:56,800 - __main__ - INFO - Processing PDF file: 22Vol100No3.pdf
+2025-03-13 14:34:56,800 - __main__ - INFO - Uploading file to Mistral: 22Vol100No3.pdf
+2025-03-13 14:34:58,302 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-13 14:34:58,305 - __main__ - INFO - File uploaded successfully with ID: e8f09b0f-e811-4b9a-8ecc-db66df3ef25a
+2025-03-13 14:34:58,706 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/e8f09b0f-e811-4b9a-8ecc-db66df3ef25a/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-13 14:34:58,708 - __main__ - INFO - Got signed URL for file: e8f09b0f-e811-4b9a-8ecc-db66df3ef25a
+2025-03-13 14:34:58,708 - __main__ - INFO - Processing with Mistral OCR: 22Vol100No3.pdf
+2025-03-13 14:34:59,221 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-13 14:34:59,260 - __main__ - INFO - OCR processing completed successfully
+2025-03-13 14:34:59,264 - __main__ - INFO - OCR response saved to mistral_output/json/22Vol100No3/ocr_response.json
+2025-03-13 14:34:59,264 - __main__ - INFO - Extracting and processing images from 22Vol100No3.pdf
+2025-03-13 14:34:59,264 - __main__ - INFO - Document has 9 pages
+2025-03-13 14:34:59,264 - __main__ - INFO - Page 1 has 0 images
+2025-03-13 14:34:59,264 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-13 14:34:59,265 - __main__ - INFO - Page 2 has 0 images
+2025-03-13 14:34:59,265 - __main__ - INFO - Page 2: Extracted 0 images
+2025-03-13 14:34:59,265 - __main__ - INFO - Page 3 has 1 images
+2025-03-13 14:34:59,266 - __main__ - INFO - Page 3: Extracted 1 images
+2025-03-13 14:34:59,266 - __main__ - INFO - Page 4 has 0 images
+2025-03-13 14:34:59,267 - __main__ - INFO - Page 4: Extracted 0 images
+2025-03-13 14:34:59,267 - __main__ - INFO - Page 5 has 2 images
+2025-03-13 14:34:59,268 - __main__ - INFO - Page 5: Extracted 2 images
+2025-03-13 14:34:59,268 - __main__ - INFO - Page 6 has 0 images
+2025-03-13 14:34:59,268 - __main__ - INFO - Page 6: Extracted 0 images
+2025-03-13 14:34:59,268 - __main__ - INFO - Page 7 has 0 images
+2025-03-13 14:34:59,268 - __main__ - INFO - Page 7: Extracted 0 images
+2025-03-13 14:34:59,268 - __main__ - INFO - Page 8 has 0 images
+2025-03-13 14:34:59,268 - __main__ - INFO - Page 8: Extracted 0 images
+2025-03-13 14:34:59,269 - __main__ - INFO - Page 9 has 0 images
+2025-03-13 14:34:59,269 - __main__ - INFO - Page 9: Extracted 0 images
+2025-03-13 14:34:59,270 - __main__ - INFO - Markdown saved to mistral_output/markdown/22Vol100No3/22Vol100No3.md
+2025-03-13 14:34:59,270 - __main__ - INFO - Document processed in 2.48 seconds
+2025-03-13 14:34:59,272 - __main__ - INFO - File copied to mistral_output/processed_files/22Vol100No3.pdf
+2025-03-13 14:34:59,272 - __main__ - INFO - Processing 20-1361.pdf (4.33 MB)...
+2025-03-13 14:34:59,284 - __main__ - INFO - Processing PDF file: 20-1361.pdf
+2025-03-13 14:34:59,285 - __main__ - INFO - Uploading file to Mistral: 20-1361.pdf
+2025-03-13 14:35:01,274 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-13 14:35:01,277 - __main__ - INFO - File uploaded successfully with ID: ac1f553e-9a5f-49b1-b960-3413b5599ced
+2025-03-13 14:35:01,511 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/ac1f553e-9a5f-49b1-b960-3413b5599ced/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-13 14:35:01,512 - __main__ - INFO - Got signed URL for file: ac1f553e-9a5f-49b1-b960-3413b5599ced
+2025-03-13 14:35:01,512 - __main__ - INFO - Processing with Mistral OCR: 20-1361.pdf
+2025-03-13 14:35:02,076 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-13 14:35:02,202 - __main__ - INFO - OCR processing completed successfully
+2025-03-13 14:35:02,214 - __main__ - INFO - OCR response saved to mistral_output/json/20-1361/ocr_response.json
+2025-03-13 14:35:02,214 - __main__ - INFO - Extracting and processing images from 20-1361.pdf
+2025-03-13 14:35:02,214 - __main__ - INFO - Document has 40 pages
+2025-03-13 14:35:02,215 - __main__ - INFO - Page 1 has 0 images
+2025-03-13 14:35:02,215 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-13 14:35:02,215 - __main__ - INFO - Page 2 has 1 images
+2025-03-13 14:35:02,216 - __main__ - INFO - Page 2: Extracted 1 images
+2025-03-13 14:35:02,216 - __main__ - INFO - Page 3 has 0 images
+2025-03-13 14:35:02,216 - __main__ - INFO - Page 3: Extracted 0 images
+2025-03-13 14:35:02,216 - __main__ - INFO - Page 4 has 1 images
+2025-03-13 14:35:02,217 - __main__ - INFO - Page 4: Extracted 1 images
+2025-03-13 14:35:02,217 - __main__ - INFO - Page 5 has 0 images
+2025-03-13 14:35:02,217 - __main__ - INFO - Page 5: Extracted 0 images
+2025-03-13 14:35:02,218 - __main__ - INFO - Page 6 has 0 images
+2025-03-13 14:35:02,218 - __main__ - INFO - Page 6: Extracted 0 images
+2025-03-13 14:35:02,218 - __main__ - INFO - Page 7 has 0 images
+2025-03-13 14:35:02,218 - __main__ - INFO - Page 7: Extracted 0 images
+2025-03-13 14:35:02,218 - __main__ - INFO - Page 8 has 0 images
+2025-03-13 14:35:02,218 - __main__ - INFO - Page 8: Extracted 0 images
+2025-03-13 14:35:02,218 - __main__ - INFO - Page 9 has 0 images
+2025-03-13 14:35:02,219 - __main__ - INFO - Page 9: Extracted 0 images
+2025-03-13 14:35:02,219 - __main__ - INFO - Page 10 has 0 images
+2025-03-13 14:35:02,219 - __main__ - INFO - Page 10: Extracted 0 images
+2025-03-13 14:35:02,219 - __main__ - INFO - Page 11 has 0 images
+2025-03-13 14:35:02,219 - __main__ - INFO - Page 11: Extracted 0 images
+2025-03-13 14:35:02,219 - __main__ - INFO - Page 12 has 0 images
+2025-03-13 14:35:02,219 - __main__ - INFO - Page 12: Extracted 0 images
+2025-03-13 14:35:02,220 - __main__ - INFO - Page 13 has 0 images
+2025-03-13 14:35:02,220 - __main__ - INFO - Page 13: Extracted 0 images
+2025-03-13 14:35:02,220 - __main__ - INFO - Page 14 has 0 images
+2025-03-13 14:35:02,220 - __main__ - INFO - Page 14: Extracted 0 images
+2025-03-13 14:35:02,220 - __main__ - INFO - Page 15 has 0 images
+2025-03-13 14:35:02,220 - __main__ - INFO - Page 15: Extracted 0 images
+2025-03-13 14:35:02,220 - __main__ - INFO - Page 16 has 1 images
+2025-03-13 14:35:02,221 - __main__ - INFO - Page 16: Extracted 1 images
+2025-03-13 14:35:02,222 - __main__ - INFO - Page 17 has 0 images
+2025-03-13 14:35:02,222 - __main__ - INFO - Page 17: Extracted 0 images
+2025-03-13 14:35:02,222 - __main__ - INFO - Page 18 has 1 images
+2025-03-13 14:35:02,223 - __main__ - INFO - Page 18: Extracted 1 images
+2025-03-13 14:35:02,223 - __main__ - INFO - Page 19 has 0 images
+2025-03-13 14:35:02,223 - __main__ - INFO - Page 19: Extracted 0 images
+2025-03-13 14:35:02,223 - __main__ - INFO - Page 20 has 1 images
+2025-03-13 14:35:02,224 - __main__ - INFO - Page 20: Extracted 1 images
+2025-03-13 14:35:02,224 - __main__ - INFO - Page 21 has 2 images
+2025-03-13 14:35:02,226 - __main__ - INFO - Page 21: Extracted 2 images
+2025-03-13 14:35:02,226 - __main__ - INFO - Page 22 has 0 images
+2025-03-13 14:35:02,226 - __main__ - INFO - Page 22: Extracted 0 images
+2025-03-13 14:35:02,227 - __main__ - INFO - Page 23 has 0 images
+2025-03-13 14:35:02,227 - __main__ - INFO - Page 23: Extracted 0 images
+2025-03-13 14:35:02,227 - __main__ - INFO - Page 24 has 0 images
+2025-03-13 14:35:02,227 - __main__ - INFO - Page 24: Extracted 0 images
+2025-03-13 14:35:02,227 - __main__ - INFO - Page 25 has 0 images
+2025-03-13 14:35:02,227 - __main__ - INFO - Page 25: Extracted 0 images
+2025-03-13 14:35:02,227 - __main__ - INFO - Page 26 has 0 images
+2025-03-13 14:35:02,227 - __main__ - INFO - Page 26: Extracted 0 images
+2025-03-13 14:35:02,228 - __main__ - INFO - Page 27 has 0 images
+2025-03-13 14:35:02,228 - __main__ - INFO - Page 27: Extracted 0 images
+2025-03-13 14:35:02,228 - __main__ - INFO - Page 28 has 0 images
+2025-03-13 14:35:02,228 - __main__ - INFO - Page 28: Extracted 0 images
+2025-03-13 14:35:02,228 - __main__ - INFO - Page 29 has 0 images
+2025-03-13 14:35:02,228 - __main__ - INFO - Page 29: Extracted 0 images
+2025-03-13 14:35:02,228 - __main__ - INFO - Page 30 has 0 images
+2025-03-13 14:35:02,228 - __main__ - INFO - Page 30: Extracted 0 images
+2025-03-13 14:35:02,229 - __main__ - INFO - Page 31 has 0 images
+2025-03-13 14:35:02,229 - __main__ - INFO - Page 31: Extracted 0 images
+2025-03-13 14:35:02,229 - __main__ - INFO - Page 32 has 0 images
+2025-03-13 14:35:02,229 - __main__ - INFO - Page 32: Extracted 0 images
+2025-03-13 14:35:02,229 - __main__ - INFO - Page 33 has 0 images
+2025-03-13 14:35:02,229 - __main__ - INFO - Page 33: Extracted 0 images
+2025-03-13 14:35:02,229 - __main__ - INFO - Page 34 has 0 images
+2025-03-13 14:35:02,229 - __main__ - INFO - Page 34: Extracted 0 images
+2025-03-13 14:35:02,229 - __main__ - INFO - Page 35 has 0 images
+2025-03-13 14:35:02,230 - __main__ - INFO - Page 35: Extracted 0 images
+2025-03-13 14:35:02,230 - __main__ - INFO - Page 36 has 0 images
+2025-03-13 14:35:02,230 - __main__ - INFO - Page 36: Extracted 0 images
+2025-03-13 14:35:02,230 - __main__ - INFO - Page 37 has 0 images
+2025-03-13 14:35:02,230 - __main__ - INFO - Page 37: Extracted 0 images
+2025-03-13 14:35:02,230 - __main__ - INFO - Page 38 has 0 images
+2025-03-13 14:35:02,230 - __main__ - INFO - Page 38: Extracted 0 images
+2025-03-13 14:35:02,230 - __main__ - INFO - Page 39 has 0 images
+2025-03-13 14:35:02,230 - __main__ - INFO - Page 39: Extracted 0 images
+2025-03-13 14:35:02,231 - __main__ - INFO - Page 40 has 0 images
+2025-03-13 14:35:02,231 - __main__ - INFO - Page 40: Extracted 0 images
+2025-03-13 14:35:02,233 - __main__ - INFO - Markdown saved to mistral_output/markdown/20-1361/20-1361.md
+2025-03-13 14:35:02,234 - __main__ - INFO - Document processed in 2.96 seconds
+2025-03-13 14:35:02,252 - __main__ - INFO - File copied to mistral_output/processed_files/20-1361.pdf
+2025-03-13 14:35:02,253 - __main__ - INFO - Processing A_process_model_for_industrial_new_product_development.pdf (1.87 MB)...
+2025-03-13 14:35:02,278 - __main__ - INFO - Processing PDF file: A_process_model_for_industrial_new_product_development.pdf
+2025-03-13 14:35:02,278 - __main__ - INFO - Uploading file to Mistral: A_process_model_for_industrial_new_product_development.pdf
+2025-03-13 14:35:03,723 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-13 14:35:03,725 - __main__ - INFO - File uploaded successfully with ID: 6bb9c49e-d71e-4775-85d4-cce02032d790
+2025-03-13 14:35:04,031 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/6bb9c49e-d71e-4775-85d4-cce02032d790/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-13 14:35:04,033 - __main__ - INFO - Got signed URL for file: 6bb9c49e-d71e-4775-85d4-cce02032d790
+2025-03-13 14:35:04,033 - __main__ - INFO - Processing with Mistral OCR: A_process_model_for_industrial_new_product_development.pdf
+2025-03-13 14:35:04,854 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-13 14:35:04,883 - __main__ - INFO - OCR processing completed successfully
+2025-03-13 14:35:04,890 - __main__ - INFO - OCR response saved to mistral_output/json/A_process_model_for_industrial_new_product_development/ocr_response.json
+2025-03-13 14:35:04,890 - __main__ - INFO - Extracting and processing images from A_process_model_for_industrial_new_product_development.pdf
+2025-03-13 14:35:04,891 - __main__ - INFO - Document has 10 pages
+2025-03-13 14:35:04,891 - __main__ - INFO - Page 1 has 0 images
+2025-03-13 14:35:04,891 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-13 14:35:04,891 - __main__ - INFO - Page 2 has 0 images
+2025-03-13 14:35:04,891 - __main__ - INFO - Page 2: Extracted 0 images
+2025-03-13 14:35:04,891 - __main__ - INFO - Page 3 has 0 images
+2025-03-13 14:35:04,892 - __main__ - INFO - Page 3: Extracted 0 images
+2025-03-13 14:35:04,892 - __main__ - INFO - Page 4 has 0 images
+2025-03-13 14:35:04,892 - __main__ - INFO - Page 4: Extracted 0 images
+2025-03-13 14:35:04,892 - __main__ - INFO - Page 5 has 0 images
+2025-03-13 14:35:04,892 - __main__ - INFO - Page 5: Extracted 0 images
+2025-03-13 14:35:04,893 - __main__ - INFO - Page 6 has 1 images
+2025-03-13 14:35:04,894 - __main__ - INFO - Page 6: Extracted 1 images
+2025-03-13 14:35:04,895 - __main__ - INFO - Page 7 has 0 images
+2025-03-13 14:35:04,895 - __main__ - INFO - Page 7: Extracted 0 images
+2025-03-13 14:35:04,895 - __main__ - INFO - Page 8 has 0 images
+2025-03-13 14:35:04,895 - __main__ - INFO - Page 8: Extracted 0 images
+2025-03-13 14:35:04,895 - __main__ - INFO - Page 9 has 0 images
+2025-03-13 14:35:04,895 - __main__ - INFO - Page 9: Extracted 0 images
+2025-03-13 14:35:04,895 - __main__ - INFO - Page 10 has 0 images
+2025-03-13 14:35:04,895 - __main__ - INFO - Page 10: Extracted 0 images
+2025-03-13 14:35:04,897 - __main__ - INFO - Markdown saved to mistral_output/markdown/A_process_model_for_industrial_new_product_development/A_process_model_for_industrial_new_product_development.md
+2025-03-13 14:35:04,898 - __main__ - INFO - Document processed in 2.64 seconds
+2025-03-13 14:35:04,902 - __main__ - INFO - File copied to mistral_output/processed_files/A_process_model_for_industrial_new_product_development.pdf
+2025-03-13 14:35:04,902 - __main__ - INFO - Processing 2020-02_fp.pdf (461.48 KB)...
+2025-03-13 14:35:04,907 - __main__ - INFO - Processing PDF file: 2020-02_fp.pdf
+2025-03-13 14:35:04,908 - __main__ - INFO - Uploading file to Mistral: 2020-02_fp.pdf
+2025-03-13 14:35:05,543 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-13 14:35:05,546 - __main__ - INFO - File uploaded successfully with ID: fc48fea0-a7fe-43c1-aeda-d80c065fb034
+2025-03-13 14:35:05,862 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/fc48fea0-a7fe-43c1-aeda-d80c065fb034/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-13 14:35:05,863 - __main__ - INFO - Got signed URL for file: fc48fea0-a7fe-43c1-aeda-d80c065fb034
+2025-03-13 14:35:05,863 - __main__ - INFO - Processing with Mistral OCR: 2020-02_fp.pdf
+2025-03-13 14:35:06,751 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-13 14:35:07,373 - __main__ - INFO - OCR processing completed successfully
+2025-03-13 14:35:07,385 - __main__ - INFO - OCR response saved to mistral_output/json/2020-02_fp/ocr_response.json
+2025-03-13 14:35:07,385 - __main__ - INFO - Extracting and processing images from 2020-02_fp.pdf
+2025-03-13 14:35:07,385 - __main__ - INFO - Document has 29 pages
+2025-03-13 14:35:07,386 - __main__ - INFO - Page 1 has 0 images
+2025-03-13 14:35:07,386 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-13 14:35:07,386 - __main__ - INFO - Page 2 has 0 images
+2025-03-13 14:35:07,386 - __main__ - INFO - Page 2: Extracted 0 images
+2025-03-13 14:35:07,386 - __main__ - INFO - Page 3 has 0 images
+2025-03-13 14:35:07,387 - __main__ - INFO - Page 3: Extracted 0 images
+2025-03-13 14:35:07,387 - __main__ - INFO - Page 4 has 0 images
+2025-03-13 14:35:07,387 - __main__ - INFO - Page 4: Extracted 0 images
+2025-03-13 14:35:07,387 - __main__ - INFO - Page 5 has 0 images
+2025-03-13 14:35:07,387 - __main__ - INFO - Page 5: Extracted 0 images
+2025-03-13 14:35:07,388 - __main__ - INFO - Page 6 has 0 images
+2025-03-13 14:35:07,388 - __main__ - INFO - Page 6: Extracted 0 images
+2025-03-13 14:35:07,388 - __main__ - INFO - Page 7 has 0 images
+2025-03-13 14:35:07,388 - __main__ - INFO - Page 7: Extracted 0 images
+2025-03-13 14:35:07,389 - __main__ - INFO - Page 8 has 0 images
+2025-03-13 14:35:07,389 - __main__ - INFO - Page 8: Extracted 0 images
+2025-03-13 14:35:07,389 - __main__ - INFO - Page 9 has 0 images
+2025-03-13 14:35:07,389 - __main__ - INFO - Page 9: Extracted 0 images
+2025-03-13 14:35:07,389 - __main__ - INFO - Page 10 has 0 images
+2025-03-13 14:35:07,390 - __main__ - INFO - Page 10: Extracted 0 images
+2025-03-13 14:35:07,390 - __main__ - INFO - Page 11 has 0 images
+2025-03-13 14:35:07,390 - __main__ - INFO - Page 11: Extracted 0 images
+2025-03-13 14:35:07,390 - __main__ - INFO - Page 12 has 0 images
+2025-03-13 14:35:07,390 - __main__ - INFO - Page 12: Extracted 0 images
+2025-03-13 14:35:07,391 - __main__ - INFO - Page 13 has 0 images
+2025-03-13 14:35:07,391 - __main__ - INFO - Page 13: Extracted 0 images
+2025-03-13 14:35:07,391 - __main__ - INFO - Page 14 has 0 images
+2025-03-13 14:35:07,391 - __main__ - INFO - Page 14: Extracted 0 images
+2025-03-13 14:35:07,391 - __main__ - INFO - Page 15 has 0 images
+2025-03-13 14:35:07,391 - __main__ - INFO - Page 15: Extracted 0 images
+2025-03-13 14:35:07,391 - __main__ - INFO - Page 16 has 0 images
+2025-03-13 14:35:07,391 - __main__ - INFO - Page 16: Extracted 0 images
+2025-03-13 14:35:07,392 - __main__ - INFO - Page 17 has 0 images
+2025-03-13 14:35:07,392 - __main__ - INFO - Page 17: Extracted 0 images
+2025-03-13 14:35:07,392 - __main__ - INFO - Page 18 has 0 images
+2025-03-13 14:35:07,392 - __main__ - INFO - Page 18: Extracted 0 images
+2025-03-13 14:35:07,392 - __main__ - INFO - Page 19 has 0 images
+2025-03-13 14:35:07,392 - __main__ - INFO - Page 19: Extracted 0 images
+2025-03-13 14:35:07,392 - __main__ - INFO - Page 20 has 0 images
+2025-03-13 14:35:07,393 - __main__ - INFO - Page 20: Extracted 0 images
+2025-03-13 14:35:07,393 - __main__ - INFO - Page 21 has 0 images
+2025-03-13 14:35:07,393 - __main__ - INFO - Page 21: Extracted 0 images
+2025-03-13 14:35:07,393 - __main__ - INFO - Page 22 has 0 images
+2025-03-13 14:35:07,393 - __main__ - INFO - Page 22: Extracted 0 images
+2025-03-13 14:35:07,393 - __main__ - INFO - Page 23 has 0 images
+2025-03-13 14:35:07,393 - __main__ - INFO - Page 23: Extracted 0 images
+2025-03-13 14:35:07,394 - __main__ - INFO - Page 24 has 0 images
+2025-03-13 14:35:07,394 - __main__ - INFO - Page 24: Extracted 0 images
+2025-03-13 14:35:07,394 - __main__ - INFO - Page 25 has 0 images
+2025-03-13 14:35:07,394 - __main__ - INFO - Page 25: Extracted 0 images
+2025-03-13 14:35:07,394 - __main__ - INFO - Page 26 has 0 images
+2025-03-13 14:35:07,394 - __main__ - INFO - Page 26: Extracted 0 images
+2025-03-13 14:35:07,394 - __main__ - INFO - Page 27 has 0 images
+2025-03-13 14:35:07,395 - __main__ - INFO - Page 27: Extracted 0 images
+2025-03-13 14:35:07,395 - __main__ - INFO - Page 28 has 0 images
+2025-03-13 14:35:07,395 - __main__ - INFO - Page 28: Extracted 0 images
+2025-03-13 14:35:07,395 - __main__ - INFO - Page 29 has 0 images
+2025-03-13 14:35:07,395 - __main__ - INFO - Page 29: Extracted 0 images
+2025-03-13 14:35:07,397 - __main__ - INFO - Markdown saved to mistral_output/markdown/2020-02_fp/2020-02_fp.md
+2025-03-13 14:35:07,398 - __main__ - INFO - Document processed in 2.50 seconds
+2025-03-13 14:35:07,399 - __main__ - INFO - File copied to mistral_output/processed_files/2020-02_fp.pdf
+2025-03-13 14:35:07,400 - __main__ - INFO - Processing NIPS-2017-attention-is-all-you-need-Paper.pdf (556.07 KB)...
+2025-03-13 14:35:07,408 - __main__ - INFO - Processing PDF file: NIPS-2017-attention-is-all-you-need-Paper.pdf
+2025-03-13 14:35:07,409 - __main__ - INFO - Uploading file to Mistral: NIPS-2017-attention-is-all-you-need-Paper.pdf
+2025-03-13 14:35:08,365 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-13 14:35:08,368 - __main__ - INFO - File uploaded successfully with ID: c0cae12d-250a-4184-bc31-d600a1a5ac91
+2025-03-13 14:35:08,595 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/c0cae12d-250a-4184-bc31-d600a1a5ac91/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-13 14:35:08,597 - __main__ - INFO - Got signed URL for file: c0cae12d-250a-4184-bc31-d600a1a5ac91
+2025-03-13 14:35:08,597 - __main__ - INFO - Processing with Mistral OCR: NIPS-2017-attention-is-all-you-need-Paper.pdf
+2025-03-13 14:35:09,031 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-13 14:35:09,061 - __main__ - INFO - OCR processing completed successfully
+2025-03-13 14:35:09,065 - __main__ - INFO - OCR response saved to mistral_output/json/NIPS-2017-attention-is-all-you-need-Paper/ocr_response.json
+2025-03-13 14:35:09,065 - __main__ - INFO - Extracting and processing images from NIPS-2017-attention-is-all-you-need-Paper.pdf
+2025-03-13 14:35:09,065 - __main__ - INFO - Document has 11 pages
+2025-03-13 14:35:09,065 - __main__ - INFO - Page 1 has 0 images
+2025-03-13 14:35:09,066 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-13 14:35:09,066 - __main__ - INFO - Page 2 has 0 images
+2025-03-13 14:35:09,066 - __main__ - INFO - Page 2: Extracted 0 images
+2025-03-13 14:35:09,066 - __main__ - INFO - Page 3 has 1 images
+2025-03-13 14:35:09,067 - __main__ - INFO - Page 3: Extracted 1 images
+2025-03-13 14:35:09,068 - __main__ - INFO - Page 4 has 1 images
+2025-03-13 14:35:09,069 - __main__ - INFO - Page 4: Extracted 1 images
+2025-03-13 14:35:09,069 - __main__ - INFO - Page 5 has 0 images
+2025-03-13 14:35:09,069 - __main__ - INFO - Page 5: Extracted 0 images
+2025-03-13 14:35:09,070 - __main__ - INFO - Page 6 has 0 images
+2025-03-13 14:35:09,070 - __main__ - INFO - Page 6: Extracted 0 images
+2025-03-13 14:35:09,070 - __main__ - INFO - Page 7 has 0 images
+2025-03-13 14:35:09,070 - __main__ - INFO - Page 7: Extracted 0 images
+2025-03-13 14:35:09,070 - __main__ - INFO - Page 8 has 0 images
+2025-03-13 14:35:09,070 - __main__ - INFO - Page 8: Extracted 0 images
+2025-03-13 14:35:09,070 - __main__ - INFO - Page 9 has 0 images
+2025-03-13 14:35:09,070 - __main__ - INFO - Page 9: Extracted 0 images
+2025-03-13 14:35:09,071 - __main__ - INFO - Page 10 has 0 images
+2025-03-13 14:35:09,071 - __main__ - INFO - Page 10: Extracted 0 images
+2025-03-13 14:35:09,071 - __main__ - INFO - Page 11 has 0 images
+2025-03-13 14:35:09,071 - __main__ - INFO - Page 11: Extracted 0 images
+2025-03-13 14:35:09,072 - __main__ - INFO - Markdown saved to mistral_output/markdown/NIPS-2017-attention-is-all-you-need-Paper/NIPS-2017-attention-is-all-you-need-Paper.md
+2025-03-13 14:35:09,073 - __main__ - INFO - Document processed in 1.67 seconds
+2025-03-13 14:35:09,074 - __main__ - INFO - File copied to mistral_output/processed_files/NIPS-2017-attention-is-all-you-need-Paper.pdf
+2025-03-13 14:35:09,074 - __main__ - INFO - Processing Fake Medical Records.docx - Google Docs.pdf (121.96 KB)...
+2025-03-13 14:35:09,076 - __main__ - INFO - Processing PDF file: Fake Medical Records.docx - Google Docs.pdf
+2025-03-13 14:35:09,076 - __main__ - INFO - Uploading file to Mistral: Fake Medical Records.docx - Google Docs.pdf
+2025-03-13 14:35:09,669 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-13 14:35:09,674 - __main__ - INFO - File uploaded successfully with ID: f6f3e4ba-f6cb-4988-916a-d531dc228f12
+2025-03-13 14:35:09,922 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/f6f3e4ba-f6cb-4988-916a-d531dc228f12/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-13 14:35:09,924 - __main__ - INFO - Got signed URL for file: f6f3e4ba-f6cb-4988-916a-d531dc228f12
+2025-03-13 14:35:09,925 - __main__ - INFO - Processing with Mistral OCR: Fake Medical Records.docx - Google Docs.pdf
+2025-03-13 14:35:10,418 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-13 14:35:10,420 - __main__ - INFO - OCR processing completed successfully
+2025-03-13 14:35:10,421 - __main__ - INFO - OCR response saved to mistral_output/json/Fake Medical Records.docx - Google Docs/ocr_response.json
+2025-03-13 14:35:10,421 - __main__ - INFO - Extracting and processing images from Fake Medical Records.docx - Google Docs.pdf
+2025-03-13 14:35:10,421 - __main__ - INFO - Document has 4 pages
+2025-03-13 14:35:10,421 - __main__ - INFO - Page 1 has 0 images
+2025-03-13 14:35:10,421 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-13 14:35:10,421 - __main__ - INFO - Page 2 has 0 images
+2025-03-13 14:35:10,422 - __main__ - INFO - Page 2: Extracted 0 images
+2025-03-13 14:35:10,422 - __main__ - INFO - Page 3 has 0 images
+2025-03-13 14:35:10,422 - __main__ - INFO - Page 3: Extracted 0 images
+2025-03-13 14:35:10,422 - __main__ - INFO - Page 4 has 0 images
+2025-03-13 14:35:10,422 - __main__ - INFO - Page 4: Extracted 0 images
+2025-03-13 14:35:10,423 - __main__ - INFO - Markdown saved to mistral_output/markdown/Fake Medical Records.docx - Google Docs/Fake Medical Records.docx - Google Docs.md
+2025-03-13 14:35:10,423 - __main__ - INFO - Document processed in 1.35 seconds
+2025-03-13 14:35:10,424 - __main__ - INFO - File copied to mistral_output/processed_files/Fake Medical Records.docx - Google Docs.pdf
+2025-03-13 14:35:10,424 - __main__ - INFO - Processing 19 DOCX/DOC files
+2025-03-13 14:35:10,424 - __main__ - INFO - Processing Fake Complaint.docx (17.40 KB)...
+2025-03-13 14:35:10,425 - __main__ - INFO - Processing DOCX file: Fake Complaint.docx
+2025-03-13 14:35:10,425 - __main__ - INFO - Uploading file to Mistral: Fake Complaint.docx
+2025-03-13 14:35:10,702 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:10,702 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:10,702 - __main__ - INFO - Processing Fake Defense Deposition.docx (17.21 KB)...
+2025-03-13 14:35:10,703 - __main__ - INFO - Processing DOCX file: Fake Defense Deposition.docx
+2025-03-13 14:35:10,703 - __main__ - INFO - Uploading file to Mistral: Fake Defense Deposition.docx
+2025-03-13 14:35:10,994 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:10,995 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:10,995 - __main__ - INFO - Processing Fake Deposition Summary.docx (15.54 KB)...
+2025-03-13 14:35:10,996 - __main__ - INFO - Processing DOCX file: Fake Deposition Summary.docx
+2025-03-13 14:35:10,996 - __main__ - INFO - Uploading file to Mistral: Fake Deposition Summary.docx
+2025-03-13 14:35:11,303 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:11,304 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:11,304 - __main__ - INFO - Processing Fake Discovery Requests.docx (21.89 KB)...
+2025-03-13 14:35:11,305 - __main__ - INFO - Processing DOCX file: Fake Discovery Requests.docx
+2025-03-13 14:35:11,305 - __main__ - INFO - Uploading file to Mistral: Fake Discovery Requests.docx
+2025-03-13 14:35:11,710 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:11,711 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:11,711 - __main__ - INFO - Processing Fake Earnings.docx (322.30 KB)...
+2025-03-13 14:35:11,712 - __main__ - INFO - Processing DOCX file: Fake Earnings.docx
+2025-03-13 14:35:11,712 - __main__ - INFO - Uploading file to Mistral: Fake Earnings.docx
+2025-03-13 14:35:12,381 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:12,383 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:12,383 - __main__ - INFO - Processing Fake Earnings(1).docx (21.66 KB)...
+2025-03-13 14:35:12,385 - __main__ - INFO - Processing DOCX file: Fake Earnings(1).docx
+2025-03-13 14:35:12,385 - __main__ - INFO - Uploading file to Mistral: Fake Earnings(1).docx
+2025-03-13 14:35:12,665 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:12,666 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:12,666 - __main__ - INFO - Processing Fake Earnings Records Summary.docx (7.29 KB)...
+2025-03-13 14:35:12,667 - __main__ - INFO - Processing DOCX file: Fake Earnings Records Summary.docx
+2025-03-13 14:35:12,667 - __main__ - INFO - Uploading file to Mistral: Fake Earnings Records Summary.docx
+2025-03-13 14:35:12,881 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:12,881 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:12,882 - __main__ - INFO - Processing Fake Earnings Records Summary(1).docx (26.95 KB)...
+2025-03-13 14:35:12,882 - __main__ - INFO - Processing DOCX file: Fake Earnings Records Summary(1).docx
+2025-03-13 14:35:12,882 - __main__ - INFO - Uploading file to Mistral: Fake Earnings Records Summary(1).docx
+2025-03-13 14:35:13,086 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:13,087 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:13,087 - __main__ - INFO - Processing Fake Injury and Illness Prevention Policy.docx (17.95 KB)...
+2025-03-13 14:35:13,087 - __main__ - INFO - Processing DOCX file: Fake Injury and Illness Prevention Policy.docx
+2025-03-13 14:35:13,087 - __main__ - INFO - Uploading file to Mistral: Fake Injury and Illness Prevention Policy.docx
+2025-03-13 14:35:13,312 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:13,314 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:13,315 - __main__ - INFO - Processing Fake Management & Indemnity Agreement.docx (17.32 KB)...
+2025-03-13 14:35:13,316 - __main__ - INFO - Processing DOCX file: Fake Management & Indemnity Agreement.docx
+2025-03-13 14:35:13,316 - __main__ - INFO - Uploading file to Mistral: Fake Management & Indemnity Agreement.docx
+2025-03-13 14:35:13,525 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:13,525 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:13,526 - __main__ - INFO - Processing Fake Medical Records.docx (23.36 KB)...
+2025-03-13 14:35:13,526 - __main__ - INFO - Processing DOCX file: Fake Medical Records.docx
+2025-03-13 14:35:13,526 - __main__ - INFO - Uploading file to Mistral: Fake Medical Records.docx
+2025-03-13 14:35:14,067 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:14,070 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:14,070 - __main__ - INFO - Processing Fake Medical Record Summary.docx (20.59 KB)...
+2025-03-13 14:35:14,071 - __main__ - INFO - Processing DOCX file: Fake Medical Record Summary.docx
+2025-03-13 14:35:14,071 - __main__ - INFO - Uploading file to Mistral: Fake Medical Record Summary.docx
+2025-03-13 14:35:14,308 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:14,309 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:14,309 - __main__ - INFO - Processing Fake Motion for Summary Judgment.docx (21.49 KB)...
+2025-03-13 14:35:14,309 - __main__ - INFO - Processing DOCX file: Fake Motion for Summary Judgment.docx
+2025-03-13 14:35:14,309 - __main__ - INFO - Uploading file to Mistral: Fake Motion for Summary Judgment.docx
+2025-03-13 14:35:14,537 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:14,538 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:14,539 - __main__ - INFO - Processing Fake Plaintiff Deposition Transcript.docx (17.88 KB)...
+2025-03-13 14:35:14,539 - __main__ - INFO - Processing DOCX file: Fake Plaintiff Deposition Transcript.docx
+2025-03-13 14:35:14,540 - __main__ - INFO - Uploading file to Mistral: Fake Plaintiff Deposition Transcript.docx
+2025-03-13 14:35:14,784 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:14,784 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:14,785 - __main__ - INFO - Processing Fake Request for Production of Documents.docx (33.28 KB)...
+2025-03-13 14:35:14,785 - __main__ - INFO - Processing DOCX file: Fake Request for Production of Documents.docx
+2025-03-13 14:35:14,785 - __main__ - INFO - Uploading file to Mistral: Fake Request for Production of Documents.docx
+2025-03-13 14:35:15,057 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:15,058 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:15,058 - __main__ - INFO - Processing Fake Status Report.docx (27.44 KB)...
+2025-03-13 14:35:15,058 - __main__ - INFO - Processing DOCX file: Fake Status Report.docx
+2025-03-13 14:35:15,059 - __main__ - INFO - Uploading file to Mistral: Fake Status Report.docx
+2025-03-13 14:35:15,363 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:15,364 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:15,365 - __main__ - INFO - Processing Fake Witness Statements.docx (14.92 KB)...
+2025-03-13 14:35:15,366 - __main__ - INFO - Processing DOCX file: Fake Witness Statements.docx
+2025-03-13 14:35:15,366 - __main__ - INFO - Uploading file to Mistral: Fake Witness Statements.docx
+2025-03-13 14:35:15,594 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:15,595 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/vnd.openxmlformats-officedocument.wordprocessingml.document, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:15,596 - __main__ - INFO - Processing Fake Answer.doc (45.50 KB)...
+2025-03-13 14:35:15,596 - __main__ - INFO - Processing DOCX file: Fake Answer.doc
+2025-03-13 14:35:15,597 - __main__ - INFO - Uploading file to Mistral: Fake Answer.doc
+2025-03-13 14:35:15,945 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 422 Unprocessable Entity"
+2025-03-13 14:35:15,946 - __main__ - ERROR - Error uploading file to Mistral: API error occurred: Status 422
+{"detail": "Invalid file format.", "message": "Received file with mimetype application/msword, only application/pdf, image/.* are currently supported"}
+2025-03-13 14:35:15,946 - __main__ - INFO - Processing Fake Request for Production of Documents.doc (66.00 KB)...
+2025-03-13 14:35:15,946 - __main__ - INFO - Processing DOCX file: Fake Request for Production of Documents.doc
+2025-03-13 14:35:15,946 - __main__ - INFO - Uploading file to Mistral: Fake Request for Production of Documents.doc
+2025-03-13 14:35:26,595 - __main__ - INFO - Initialized Mistral client with API key: riyY...
+2025-03-13 14:35:26,596 - __main__ - INFO - Directories set up successfully
+2025-03-13 14:35:26,597 - __main__ - INFO - Found 1 files to process: 1 PDFs, 0 DOCX/DOC
+2025-03-13 14:35:26,597 - __main__ - INFO - Starting document processing
+2025-03-13 14:35:26,597 - __main__ - INFO - Processing 1 PDF files
+2025-03-13 14:35:26,597 - __main__ - INFO - Processing Non-text-searchable.pdf (68.84 KB)...
+2025-03-13 14:35:26,598 - __main__ - INFO - Processing PDF file: Non-text-searchable.pdf
+2025-03-13 14:35:26,599 - __main__ - INFO - Uploading file to Mistral: Non-text-searchable.pdf
+2025-03-13 14:35:27,384 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-13 14:35:27,387 - __main__ - INFO - File uploaded successfully with ID: 61fac083-6e39-4707-be24-b5896f27bf04
+2025-03-13 14:35:27,658 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/61fac083-6e39-4707-be24-b5896f27bf04/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-13 14:35:27,659 - __main__ - INFO - Got signed URL for file: 61fac083-6e39-4707-be24-b5896f27bf04
+2025-03-13 14:35:27,660 - __main__ - INFO - Processing with Mistral OCR: Non-text-searchable.pdf
+2025-03-13 14:35:28,918 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-13 14:35:28,921 - __main__ - INFO - OCR processing completed successfully
+2025-03-13 14:35:28,921 - __main__ - INFO - OCR response saved to mistral_output/json/Non-text-searchable/ocr_response.json
+2025-03-13 14:35:28,921 - __main__ - INFO - Extracting and processing images from Non-text-searchable.pdf
+2025-03-13 14:35:28,921 - __main__ - INFO - Document has 1 pages
+2025-03-13 14:35:28,921 - __main__ - INFO - Page 1 has 0 images
+2025-03-13 14:35:28,922 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-13 14:35:28,922 - __main__ - INFO - Markdown saved to mistral_output/markdown/Non-text-searchable/Non-text-searchable.md
+2025-03-13 14:35:28,922 - __main__ - INFO - Document processed in 2.32 seconds
+2025-03-13 14:35:28,923 - __main__ - INFO - File copied to mistral_output/processed_files/Non-text-searchable.pdf
+2025-03-13 14:35:28,923 - __main__ - INFO - Processing summary: 1 successful, 0 failed
+2025-03-13 14:35:28,923 - __main__ - INFO - PDF files: 1/1 successful
+2025-03-13 14:35:28,923 - __main__ - INFO - DOCX files: 0/0 successful
+2025-03-13 14:35:28,923 - __main__ - INFO - Document processing completed
+2025-03-15 12:06:30,931 - __main__ - INFO - Initialized Mistral client with API key: riyY...
+2025-03-15 12:06:30,932 - __main__ - INFO - Directories set up successfully
+2025-03-15 12:06:30,932 - __main__ - INFO - Found 5 files to process: 5 PDFs, 0 DOCX/DOC
+2025-03-15 12:06:30,932 - __main__ - INFO - Starting document processing
+2025-03-15 12:06:30,933 - __main__ - INFO - Processing 5 PDF files
+2025-03-15 12:06:30,933 - __main__ - INFO - Processing 5.pdf (1.59 MB)...
+2025-03-15 12:06:30,934 - __main__ - INFO - Processing PDF file: 5.pdf
+2025-03-15 12:06:30,934 - __main__ - INFO - Uploading file to Mistral: 5.pdf
+2025-03-15 12:06:33,462 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-15 12:06:33,465 - __main__ - INFO - File uploaded successfully with ID: d4295aac-476e-4527-942a-ebb0c795dabf
+2025-03-15 12:06:33,990 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/d4295aac-476e-4527-942a-ebb0c795dabf/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-15 12:06:33,995 - __main__ - INFO - Got signed URL for file: d4295aac-476e-4527-942a-ebb0c795dabf
+2025-03-15 12:06:33,995 - __main__ - INFO - Processing with Mistral OCR: 5.pdf
+2025-03-15 12:06:34,718 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-15 12:06:35,080 - __main__ - INFO - OCR processing completed successfully
+2025-03-15 12:06:35,090 - __main__ - INFO - OCR response saved to mistral_scanned_pdf_output/json/5/ocr_response.json
+2025-03-15 12:06:35,090 - __main__ - INFO - Extracting and processing images from 5.pdf
+2025-03-15 12:06:35,091 - __main__ - INFO - Document has 3 pages
+2025-03-15 12:06:35,091 - __main__ - INFO - Page 1 has 0 images
+2025-03-15 12:06:35,092 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-15 12:06:35,092 - __main__ - INFO - Page 2 has 0 images
+2025-03-15 12:06:35,092 - __main__ - INFO - Page 2: Extracted 0 images
+2025-03-15 12:06:35,093 - __main__ - INFO - Page 3 has 1 images
+2025-03-15 12:06:35,100 - __main__ - INFO - Page 3: Extracted 1 images
+2025-03-15 12:06:35,101 - __main__ - INFO - Markdown saved to mistral_scanned_pdf_output/markdown/5/5.md
+2025-03-15 12:06:35,103 - __main__ - INFO - Document processed in 4.17 seconds
+2025-03-15 12:06:35,108 - __main__ - INFO - File copied to mistral_scanned_pdf_output/processed_files/5.pdf
+2025-03-15 12:06:35,108 - __main__ - INFO - Processing 4.pdf (1.62 MB)...
+2025-03-15 12:06:35,112 - __main__ - INFO - Processing PDF file: 4.pdf
+2025-03-15 12:06:35,112 - __main__ - INFO - Uploading file to Mistral: 4.pdf
+2025-03-15 12:06:36,846 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-15 12:06:36,851 - __main__ - INFO - File uploaded successfully with ID: dc96706d-b593-4d08-b0c4-aecbca11d4ef
+2025-03-15 12:06:37,193 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/dc96706d-b593-4d08-b0c4-aecbca11d4ef/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-15 12:06:37,199 - __main__ - INFO - Got signed URL for file: dc96706d-b593-4d08-b0c4-aecbca11d4ef
+2025-03-15 12:06:37,200 - __main__ - INFO - Processing with Mistral OCR: 4.pdf
+2025-03-15 12:06:37,807 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-15 12:06:37,859 - __main__ - INFO - OCR processing completed successfully
+2025-03-15 12:06:37,864 - __main__ - INFO - OCR response saved to mistral_scanned_pdf_output/json/4/ocr_response.json
+2025-03-15 12:06:37,864 - __main__ - INFO - Extracting and processing images from 4.pdf
+2025-03-15 12:06:37,865 - __main__ - INFO - Document has 3 pages
+2025-03-15 12:06:37,865 - __main__ - INFO - Page 1 has 1 images
+2025-03-15 12:06:37,867 - __main__ - INFO - Page 1: Extracted 1 images
+2025-03-15 12:06:37,868 - __main__ - INFO - Page 2 has 1 images
+2025-03-15 12:06:37,869 - __main__ - INFO - Page 2: Extracted 1 images
+2025-03-15 12:06:37,870 - __main__ - INFO - Page 3 has 0 images
+2025-03-15 12:06:37,870 - __main__ - INFO - Page 3: Extracted 0 images
+2025-03-15 12:06:37,871 - __main__ - INFO - Markdown saved to mistral_scanned_pdf_output/markdown/4/4.md
+2025-03-15 12:06:37,872 - __main__ - INFO - Document processed in 2.76 seconds
+2025-03-15 12:06:37,876 - __main__ - INFO - File copied to mistral_scanned_pdf_output/processed_files/4.pdf
+2025-03-15 12:06:37,877 - __main__ - INFO - Processing t1.pdf (3.23 MB)...
+2025-03-15 12:06:37,883 - __main__ - INFO - Processing PDF file: t1.pdf
+2025-03-15 12:06:37,883 - __main__ - INFO - Uploading file to Mistral: t1.pdf
+2025-03-15 12:06:40,623 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-15 12:06:40,628 - __main__ - INFO - File uploaded successfully with ID: 0376b4c6-1a00-4b17-b6d4-d026c3803adf
+2025-03-15 12:06:40,997 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/0376b4c6-1a00-4b17-b6d4-d026c3803adf/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-15 12:06:41,001 - __main__ - INFO - Got signed URL for file: 0376b4c6-1a00-4b17-b6d4-d026c3803adf
+2025-03-15 12:06:41,001 - __main__ - INFO - Processing with Mistral OCR: t1.pdf
+2025-03-15 12:06:41,683 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-15 12:06:41,859 - __main__ - INFO - OCR processing completed successfully
+2025-03-15 12:06:41,869 - __main__ - INFO - OCR response saved to mistral_scanned_pdf_output/json/t1/ocr_response.json
+2025-03-15 12:06:41,869 - __main__ - INFO - Extracting and processing images from t1.pdf
+2025-03-15 12:06:41,869 - __main__ - INFO - Document has 6 pages
+2025-03-15 12:06:41,870 - __main__ - INFO - Page 1 has 1 images
+2025-03-15 12:06:41,871 - __main__ - INFO - Page 1: Extracted 1 images
+2025-03-15 12:06:41,871 - __main__ - INFO - Page 2 has 1 images
+2025-03-15 12:06:41,872 - __main__ - INFO - Page 2: Extracted 1 images
+2025-03-15 12:06:41,872 - __main__ - INFO - Page 3 has 1 images
+2025-03-15 12:06:41,873 - __main__ - INFO - Page 3: Extracted 1 images
+2025-03-15 12:06:41,873 - __main__ - INFO - Page 4 has 1 images
+2025-03-15 12:06:41,874 - __main__ - INFO - Page 4: Extracted 1 images
+2025-03-15 12:06:41,875 - __main__ - INFO - Page 5 has 1 images
+2025-03-15 12:06:41,876 - __main__ - INFO - Page 5: Extracted 1 images
+2025-03-15 12:06:41,876 - __main__ - INFO - Page 6 has 2 images
+2025-03-15 12:06:41,877 - __main__ - INFO - Page 6: Extracted 2 images
+2025-03-15 12:06:41,878 - __main__ - INFO - Markdown saved to mistral_scanned_pdf_output/markdown/t1/t1.md
+2025-03-15 12:06:41,878 - __main__ - INFO - Document processed in 4.00 seconds
+2025-03-15 12:06:41,881 - __main__ - INFO - File copied to mistral_scanned_pdf_output/processed_files/t1.pdf
+2025-03-15 12:06:41,882 - __main__ - INFO - Processing 3.pdf (266.34 KB)...
+2025-03-15 12:06:41,882 - __main__ - INFO - Processing PDF file: 3.pdf
+2025-03-15 12:06:41,882 - __main__ - INFO - Uploading file to Mistral: 3.pdf
+2025-03-15 12:06:43,209 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-15 12:06:43,213 - __main__ - INFO - File uploaded successfully with ID: da9f972c-f0c4-4a15-8ee7-ae838fe28780
+2025-03-15 12:06:43,558 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/da9f972c-f0c4-4a15-8ee7-ae838fe28780/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-15 12:06:43,562 - __main__ - INFO - Got signed URL for file: da9f972c-f0c4-4a15-8ee7-ae838fe28780
+2025-03-15 12:06:43,562 - __main__ - INFO - Processing with Mistral OCR: 3.pdf
+2025-03-15 12:06:44,200 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-15 12:06:44,201 - __main__ - INFO - OCR processing completed successfully
+2025-03-15 12:06:44,202 - __main__ - INFO - OCR response saved to mistral_scanned_pdf_output/json/3/ocr_response.json
+2025-03-15 12:06:44,202 - __main__ - INFO - Extracting and processing images from 3.pdf
+2025-03-15 12:06:44,202 - __main__ - INFO - Document has 1 pages
+2025-03-15 12:06:44,202 - __main__ - INFO - Page 1 has 0 images
+2025-03-15 12:06:44,202 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-15 12:06:44,203 - __main__ - INFO - Markdown saved to mistral_scanned_pdf_output/markdown/3/3.md
+2025-03-15 12:06:44,203 - __main__ - INFO - Document processed in 2.32 seconds
+2025-03-15 12:06:44,204 - __main__ - INFO - File copied to mistral_scanned_pdf_output/processed_files/3.pdf
+2025-03-15 12:06:44,204 - __main__ - INFO - Processing 1.pdf (1.45 MB)...
+2025-03-15 12:06:44,207 - __main__ - INFO - Processing PDF file: 1.pdf
+2025-03-15 12:06:44,208 - __main__ - INFO - Uploading file to Mistral: 1.pdf
+2025-03-15 12:06:45,795 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-03-15 12:06:45,800 - __main__ - INFO - File uploaded successfully with ID: d225df7f-894e-47cf-a78f-ec644e7e358b
+2025-03-15 12:06:46,171 - httpx - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/d225df7f-894e-47cf-a78f-ec644e7e358b/url?expiry=1 "HTTP/1.1 200 OK"
+2025-03-15 12:06:46,176 - __main__ - INFO - Got signed URL for file: d225df7f-894e-47cf-a78f-ec644e7e358b
+2025-03-15 12:06:46,176 - __main__ - INFO - Processing with Mistral OCR: 1.pdf
+2025-03-15 12:06:46,711 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-03-15 12:06:46,720 - __main__ - INFO - OCR processing completed successfully
+2025-03-15 12:06:46,721 - __main__ - INFO - OCR response saved to mistral_scanned_pdf_output/json/1/ocr_response.json
+2025-03-15 12:06:46,721 - __main__ - INFO - Extracting and processing images from 1.pdf
+2025-03-15 12:06:46,721 - __main__ - INFO - Document has 4 pages
+2025-03-15 12:06:46,721 - __main__ - INFO - Page 1 has 0 images
+2025-03-15 12:06:46,721 - __main__ - INFO - Page 1: Extracted 0 images
+2025-03-15 12:06:46,721 - __main__ - INFO - Page 2 has 0 images
+2025-03-15 12:06:46,721 - __main__ - INFO - Page 2: Extracted 0 images
+2025-03-15 12:06:46,722 - __main__ - INFO - Page 3 has 0 images
+2025-03-15 12:06:46,722 - __main__ - INFO - Page 3: Extracted 0 images
+2025-03-15 12:06:46,722 - __main__ - INFO - Page 4 has 0 images
+2025-03-15 12:06:46,722 - __main__ - INFO - Page 4: Extracted 0 images
+2025-03-15 12:06:46,722 - __main__ - INFO - Markdown saved to mistral_scanned_pdf_output/markdown/1/1.md
+2025-03-15 12:06:46,723 - __main__ - INFO - Document processed in 2.52 seconds
+2025-03-15 12:06:46,724 - __main__ - INFO - File copied to mistral_scanned_pdf_output/processed_files/1.pdf
+2025-03-15 12:06:46,724 - __main__ - INFO - Processing summary: 5 successful, 0 failed
+2025-03-15 12:06:46,725 - __main__ - INFO - PDF files: 5/5 successful
+2025-03-15 12:06:46,725 - __main__ - INFO - DOCX files: 0/0 successful
+2025-03-15 12:06:46,725 - __main__ - INFO - Document processing completed
